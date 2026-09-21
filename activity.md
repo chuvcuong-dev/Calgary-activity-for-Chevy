@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-20 14:02:11
+> **Last Updated:** 2026-09-21 14:02:24
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -55,7 +55,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 20** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/student-success-centre/event/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
 | **September 21** | [Labfront x XPRIZE Canada Hub Health Research Challenge](https://labfront-8041df.webflow.io/events/health-research-challenge) | Hunter Hub for Entrepreneurial Thinking | The Labfront x XPRIZE Health Research Challenge is a one-day event designed to fast-track innovation in women’s health and brain health from a r... |
 | **September 21** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/student-success-centre/event/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
 | **September 21** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523567-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
@@ -67,6 +66,7 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **September 21** | [Child Health and Wellness Seminar: Youth perspectives on how they are viewed and treated: Survey results from a PAR project](https://events.ucalgary.ca/live/events/chws-sept21) | Zoom | Learn about the results from a mixed-methods survey of Alberta youth   perspectives. |
 | **September 21** | [Alumni Career Workshop: Career Planning](https://events.ucalgary.ca/alumni/event/520435-alumni-career-workshop-career-planning) | Online | Join an alumni career coach for this exclusive career workshop.&#160; |
 | **September 21** | [Acknowledging Fall Equinox and Treaty 7 Day with Elder Alice Kaquitts](https://events.ucalgary.ca/social-work/event/524636-acknowledging-fall-equinox-and-treaty-7-day-with) | TBD / Online | Join Elder Alice Kaquitts for a Fall Equinox Feast featuring teachings, stories and blessings, along with a recognition of the importance of Tre... |
+| **September 21** | [Ideate Information Session](https://events.ucalgary.ca/live/events/525078-ideate-information-session) | 460 Campus Lane NW, Calgary, AB T2N 1N4 | Curious about Ideate? Join us for a virtual information session to learn how the two-week program works, what to expect and how to get involved. |
 
 ---
 
