@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-21 14:02:24
+> **Last Updated:** 2026-09-22 14:02:25
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -17,6 +17,7 @@
 | **2026-10-01** | Department Activity | **BSA BIO 241 Midterm 1 Exam Prep & Review Session** | Hosted by Biology Students' Association. Peer review of cellular biology and past exam questions. |
 | **2026-10-08** | Faculty of Science | **Science Internship Program (SIP) - 1st Year Exploration Session** | Learn how to prepare in Year 1 to qualify for 8-to-16 month paid industry internships in Year 3. |
 | **2026-10-15** | Support / Advising | **Faculty of Science Peer Mentorship Check-in & Study Skills** | Meet senior biology mentors for advice on managing biology lab reports and chemistry tutorials. |
+| **2026-10-22** | Department Activity | **BSA 'Meet the Biology Professors' Research Night** | Faculty members present ongoing research in ecology, genetics, and cellular biology. Key for finding summer supervisors! |
 
 ---
 
@@ -55,18 +56,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 21** | [Labfront x XPRIZE Canada Hub Health Research Challenge](https://labfront-8041df.webflow.io/events/health-research-challenge) | Hunter Hub for Entrepreneurial Thinking | The Labfront x XPRIZE Health Research Challenge is a one-day event designed to fast-track innovation in women’s health and brain health from a r... |
-| **September 21** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/student-success-centre/event/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **September 21** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523567-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
-| **September 21** | [RIHSE Rounds](https://events.ucalgary.ca/live/events/524642-rihse-rounds-copy) | HSC G382 or via Zoom | Presenter(s):      Dr. Fatemeh Ramazani   &#160;      Topic:&#160;      Next week’s rounds will be a journal club.   Dr. Fatemeh Ramazani ... |
-| **September 21** | [Consent and Boundary Basics](https://events.ucalgary.ca/live/events/521003-consent-and-boundary-basics) | Online | Creating a culture of consent starts with you! Join the Sexual and Gender-Based Violence Prevention and Response Office for a discussion on navi... |
-| **September 21** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524137-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
-| **September 21** | [Intro to Advarra eReg - Lunch &amp; Learn](https://events.ucalgary.ca/research/cccr/event/524273-intro-to-advarra-ereg-lunch-learn) | Zoom | Join us for the Calgary Centre for Clinical Research’s (CCCR) Lunch &amp; Learn. Mari Boesen, Provincial Project Manager, Clinical Research Systems... |
-| **September 21** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523869-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
-| **September 21** | [Child Health and Wellness Seminar: Youth perspectives on how they are viewed and treated: Survey results from a PAR project](https://events.ucalgary.ca/live/events/chws-sept21) | Zoom | Learn about the results from a mixed-methods survey of Alberta youth   perspectives. |
-| **September 21** | [Alumni Career Workshop: Career Planning](https://events.ucalgary.ca/alumni/event/520435-alumni-career-workshop-career-planning) | Online | Join an alumni career coach for this exclusive career workshop.&#160; |
-| **September 21** | [Acknowledging Fall Equinox and Treaty 7 Day with Elder Alice Kaquitts](https://events.ucalgary.ca/social-work/event/524636-acknowledging-fall-equinox-and-treaty-7-day-with) | TBD / Online | Join Elder Alice Kaquitts for a Fall Equinox Feast featuring teachings, stories and blessings, along with a recognition of the importance of Tre... |
-| **September 21** | [Ideate Information Session](https://events.ucalgary.ca/live/events/525078-ideate-information-session) | 460 Campus Lane NW, Calgary, AB T2N 1N4 | Curious about Ideate? Join us for a virtual information session to learn how the two-week program works, what to expect and how to get involved. |
+| **September 22** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/student-success-centre/event/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **September 22** | [Department of Medicine Medical Grand Rounds](https://events.ucalgary.ca/cumming/medicine/event/525092-department-of-medicine-medical-grand-rounds) | Zoom Presentation | “Beyond Burnout: Reclaiming Meaning &amp; Humanity in Medical Practice”   Dr. Paul Fedak |
+| **September 22** | [2026 Health &amp; Life Sciences Industry Collaboration Initiative](https://luma.com/fie1g9ue) | Foothills Campus, 3330 Hospital Drive NW | ​The UCalgary Health and Life Sciences Industry Collaboration Initiative brings together startups, SMEs and MNEs, researchers, foundations, agno... |
+| **September 22** | [Cardiovascular Journal Club](https://events.ucalgary.ca/libin/event/524941-cardiovascular-journal-club) | HSC 1405B | Join us for Cardiovascular Journal Club. This session features:&#160;      1: Simrandeep Kaur and Akshata Dhumal , presenting:   “Tirzepatide, a... |
+| **September 22** | [Admissions Advising Session with UCalgary Law](https://events.ucalgary.ca/law/event/522290-admissions-advising-session-with-ucalgary-law) | TBD / Online | Stop by our online office hours to meet with a member of our Admissions team and ask your questions about applying to law school or about UCalgary ... |
+| **September 22** | [Clearing the Haze Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524041-clearing-the-haze-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Clearing the Haze is a peer-led discussion space focused on exploring relationships with cannabis, nicotine, and vaping. Open to students, staff... |
+| **September 22** | [Eating and Body Image Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524093-eating-and-body-image-peer-support-meeting) | Women’s Resource Centre Library (MSC 482) | This topic discussion meeting is for students, faculty, staff and alumni in recovery from an eating disorder, disordered eating, and/or curious ... |
+| **September 22** | [UBCO Graduate &amp; Professional Schools Fair](https://events.ucalgary.ca/law-admissions/event/523368-ubco-graduate-professional-schools-fair) | Courtyard, 3333 University Way Kelowna, BC V1V 1V7 Canada | Join us at the UBC Okanagan 2026 Graduate &amp; Professional Schools Fair to learn more about UCalgary Law and why we might be the best fit for you. |
+| **September 22** | [Fall Career Fair](https://events.ucalgary.ca/career-personal-development/event/521951-fall-career-fair) | MacEwan Hall A/B | Meet employers and find student opportunities for a wide range of faculties. |
+| **September 22** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522745-affordable-market) | Campus Food Hub |  |
+| **September 22** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524709-donuts-and-discussions-peer-support-meeting) | Writing Symbols Lodge - Red Lodge (MSC 392) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
+| **September 22** | [Skills Clinic - Professional Etiquette for Entrepreneurs](https://events.ucalgary.ca/hunter-hub/event/524485-skills-clinic-professional-etiquette-for-entrepreneur) | 460 Campus Lane NW, Calgary, AB T2N 1N4 | ​In this interactive, practical workshop designed specifically for emerging entrepreneurs, you will gain essential professional etiquette skills... |
 
 ---
 
