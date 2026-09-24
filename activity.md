@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-23 14:02:32
+> **Last Updated:** 2026-09-24 14:02:34
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -56,18 +56,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 23** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/student-success-centre/event/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **September 23** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523568-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
-| **September 23** | [Your Career by Design Registration](https://events.ucalgary.ca/career-personal-development/event/522678-your-career-by-design-registration) | Online, D2L | It’s okay to not have everything figured out. This self-paced blended learning experience (D2L) will help you reflect on your interests, values,... |
-| **September 23** | [Rheumatology Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/524297-rheumatology-rounds-hybrid) | Theatre One, HSC, Foothills Campus | “An EPIC EMR - How to Survive on Call”   Dr. S. Thomson&#160; |
-| **September 23** | [Health Promotion Passport Challenge](https://events.ucalgary.ca/wellness-services/event/524369-health-promotion-passport-challenge) | UCalgary Main Campus | Explore campus, collect stamps for a chance to win prizes, and discover resources that can support your well-being throughout your university jo... |
-| **September 23** | [Fitness Centre Orientation (Spy Hill Campus)](https://events.ucalgary.ca/spyhillcampusfitnesscentre/event/524693-fitness-centre-orientation-spy-hill-campus) | Spy Hill Campus Fitness Centre, CSB 110Z | Whether you’re new to fitness or simply new to the Spy Hill Campus Fitness Centre, this orientation is a great way to get started. |
-| **September 23** | [Anna Heawood, PhD](https://events.ucalgary.ca/irn/event/519796-anna-heawood-phd) | HSC 1405A | Postdoctoral Researcher   University of Glasgow |
-| **September 23** | [Bold Ideas, Breakthrough Impact: Why Radical Innovation is Needed to Transform Health and Life Sciences](https://luma.com/2d1tb54n) | Platform Calgary | Join the XPRIZE Canada Hub for a panel session on Bold Ideas, Breakthrough Impact: Why Radical Innovation is Needed to Transform Health and Life... |
-| **September 23** | [Understanding Conflict for Students (Conflict Foundations)](https://events.ucalgary.ca/ombuds/event/524928-understanding-conflict-for-students-conflict-foundati) | Online | Learn why conflict happens, how it affects us, and how to approach disagreements with greater confidence and curiosity. |
-| **September 23** | [Fresh Routes Mobile Market](https://events.ucalgary.ca/live/events/504336-fresh-routes-mobile-market) | Health Sciences Centre Mall (Hippocrates Mall) (By stairs to library) | Fresh Routes is a mobile grocery store that brings healthy and affordable vegetables, fruit and eggs right to the Foothills campus.   Weekly on ... |
-| **September 23** | [TOUR – Held. Together.](https://events.ucalgary.ca/live/events/523416-tour-held-together) | Taylor Family Digital Library | Join curator Jenelle M. Pasiechnik for an indepth tour of Nickle Gallerie’s latest exhibition, Held. Together.&#160; |
-| **September 23** | [Webinar: Why People Hate HR: The Business Partner Solution](https://events.ucalgary.ca/live/events/524470-webinar-why-people-hate-hr-the-business-partner) | Zoom |  |
+| **September 24** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/student-success-centre/event/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **September 24** | [Renal Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/524351-renal-rounds-hybrid) | Theatre One, Health Sciences Centre, Foothills Campus | “Immune Surveillance and the Kidney”   Dr. Dan Muruve |
+| **September 24** | [CSM TEP - Teaching Excellence Program Track I - Day 1](https://events.ucalgary.ca/ofd/event/495851-csm-tep-teaching-excellence-program-track-i-day-1) | Foothills Campus | This comprehensive faculty development program has been designed to support educators at every stage of their teaching careers, from novice to e... |
+| **September 24** | [Intellectual Property in Life Science: Protecting Research, Advancing Impact](https://events.ucalgary.ca/live/events/525151-intellectual-property-in-life-science-protecting) | W21C Boardroom (GD12A), Teaching, Research and Wellness Building (TRW), University of Calgary, 3280 Hospital Drive NW, Calgary, AB T2N 4Z6 | ​Intellectual Property in Life Sciences: Protecting Research, Advancing Impact is a free, two-hour, in-person workshop designed to introduce early-... |
+| **September 24** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525371-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips, sh... |
+| **September 24** | [Downtown Coffee Connect - EMBA &amp; MBA](https://events.ucalgary.ca/haskayne/event/524344-downtown-coffee-connect-emba-mba) | Deville (+15 LEVEL) 333-5th Ave SW | Drop by to chat with our Haskayne Admissions Specialists about finding the right MBA program for you—and enjoy a Deville coffee on us. |
+| **September 24** | [Postdoc Appreciation Week: Science Zumba](https://events.ucalgary.ca/oadr/event/522043-postdoc-appreciation-week-science-zumba) | HRIC Atrium | Science Zumba: Research Your Rhythm   Put down the pipette, close the laptop, and find your rhythm! Join fellow postdocs for a fun and energetic... |
+| **September 24** | [UNU Distinguished Lecture Series - Dr Seth Bryant - University of Wisconsin-Madison](https://events.ucalgary.ca/live/events/525226-unu-distinguished-lecture-series-dr-seth-bryant) | ENF 231 | Title: Floods at scale: mapping, modelling, and mistakes |
+| **September 24** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522775-affordable-market) | Campus Food Hub |  |
+| **September 24** | [Nickle@Noon – Terhpi Thâkthâja: Stoney Nakoda, Catharine Whyte and her Museum](https://events.ucalgary.ca/live/events/523268-nicklenoon-terhpi-thakthaja-stoney-nakoda) | Nickle Galleries, Taylor Family Digital Library | Terhpi Thâkthâja is a documentary examining the Stoney Nakoda Nation’s relationship with the Whyte Museum in Banff. Through conversations with m... |
+| **September 24** | [Step Into Fall - Weekly Walk](https://events.ucalgary.ca/wellness-services/event/520797-step-into-fall-weekly-walk) | TFDL Quad (Pride Stairs) | Join us for a 30-minute walk around campus as we connect with nature and admire the beautiful fall colors! Get ready to meet new people, familia... |
+| **September 24** | [Hematology Rounds](https://events.ucalgary.ca/cumming/medicine/event/523741-hematology-rounds) | Zoom Presentation | “Beyond Treatment Paradigms in MD and CMML”   Dr. Guillermo Garcia-Manero, University of Texas, MD Anderson Cancer Centre |
 
 ---
 
