@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-25 14:02:37
+> **Last Updated:** 2026-09-26 14:02:18
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -12,7 +12,6 @@
 
 | Date | Category | Activity / Milestone | Details & Action |
 | :--- | :--- | :--- | :--- |
-| **2026-09-25** | Financial Deadline | **Fall 2026 Tuition & Fee Payment Deadline** | Tuition and general fees deadline for Fall 2026. Late fees apply after this date. |
 | **2026-10-01** | Scholarships & Awards | **UCalgary Admissions & Prestige Awards Applications Open** | Admissions and entrance prestige award portals open for subsequent cycle. |
 | **2026-10-01** | Department Activity | **BSA BIO 241 Midterm 1 Exam Prep & Review Session** | Hosted by Biology Students' Association. Peer review of cellular biology and past exam questions. |
 | **2026-10-08** | Faculty of Science | **Science Internship Program (SIP) - 1st Year Exploration Session** | Learn how to prepare in Year 1 to qualify for 8-to-16 month paid industry internships in Year 3. |
@@ -56,18 +55,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 25** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/student-success-centre/event/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **September 25** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523569-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
-| **September 25** | [Respiratory Medicine Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/524220-respiratory-medicine-rounds-hybrid) | W21C Boardroom, CWPH | City Wide Meeting - No Presentation |
-| **September 25** | [Medical Genetics Seminar by Blue Cloud Williams and Jillian Variyan](https://events.ucalgary.ca/medical-genetics/event/525209-medical-genetics-seminar-by-blue-cloud-williams) | https://healthsharedservices-ca.zoom.us/j/63409480355?pwd=0RFJhafjCspC4lcQ2F5VqQIMbbEgkg.1 | Title: Truth, Reconciliation, and Culturally Safe Care: Learning to Better Support Indigenous Patients and Families Friday, September 25, 2026 9:00... |
-| **September 25** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523389-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
-| **September 25** | [Lunch &amp; Learn - Beyond the Bench: Developing Your Career Options](https://events.ucalgary.ca/live/events/524604-lunch-learn-beyond-the-bench-developing-your) | Clara Christie Theatre, HSC | Join us for a Lunch &amp; Learn with CSM Research Grants Development Officers Clint Westgard and Brandi Povitz, who will talk about their career... |
-| **September 25** | [Canada Postdoctoral Research Award (CPRA): Navigating the NSERC Postdoctoral Application](https://luma.com/iga7npdd) | TBD / Online |  |
-| **September 25** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522790-affordable-market) | Campus Food Hub |  |
-| **September 25** | [Roger Admiral, Alexander Carpenter, and Guillaume Tardif](https://events.ucalgary.ca/live/events/520174-recital-hour-roger-admiral-alexander-carpenter-and) | Eckhardt-Gramatté Hall, Rozsa Centre | Alexander Carpenter, author and editor of the upcoming Routledge book on Arnold Schoenberg’s Fünf Klavierstücke Op. 23, will speak about the aes... |
-| **September 25** | [HBI Seminar Series - Dr. Rebecca Seal](https://events.ucalgary.ca/hbi/event/522828-hbi-seminar-series-dr-rebecca-seal) | Theatre One | “Unlocking Circuits and Designing Cross-species tools for Pain Discovery and Therapeutics” |
-| **September 25** | [FATS: Reconciliation Is a Practice, Not a Position: Twenty Years of Indigenous Governance, Land, and Energy in Canada](https://events.ucalgary.ca/live/events/524798-fats-reconciliation-is-a-practice-not-a-position-twen) | Science Theatres, Room 147 (ST 147) | Presented by Jillian Johnson, Quality Manager for Green Cat Hydrogen, a hydrogen project developer based out of Scotland. |
-| **September 25** | [Jummah Prayers with the MSA](https://events.ucalgary.ca/faith-spirituality/event/523895-jummah-prayers-with-the-msa) | Vitruvian Space, DC 12 | Facilitated in partnership with the Muslim Students’ Association |
+| **September 26** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **September 26** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524431-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
+| **September 27** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **September 27** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524432-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
+| **September 27** | [Olympic Oval 39th Birthday Skate](https://events.ucalgary.ca/oval/event/523756-olympic-oval-39th-birthday-skate) | Olympic Oval | We’re turning 39 — and what better way to celebrate than with a skate on The Fastest Ice in the World™? Join us at the Olympic Oval, lace up you... |
+| **September 28** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **September 28** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523570-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
+| **September 28** | [RIHSE Rounds](https://events.ucalgary.ca/live/events/524643-rihse-rounds-copy) | HSC G382 or via Zoom | Sign Up to Present at RIHSE Rounds            Presenter(s):      Dr. Daniel Berger, MD, PhD   &#160;   Topic:&#160;      “Outcomes and Evaluatio... |
+| **September 28** | [Toronto LSAC Law School Forum](https://events.ucalgary.ca/law-admissions/event/523369-toronto-lsac-law-school-forum) | Hyatt Regency Toronto | Join us at the Toronto LSAC Law School Forum to learn more about UCalgary Law and find out if Calgary is the right place for you. |
+| **September 28** | [Program Evaluation Master Class Series - Understanding Program Evaluation](https://events.ucalgary.ca/live/events/524419-program-evaluation-master-class-series-program-evalua) | HSC G500 | Register To Attend This Masterclass   &#160;      Program Evaluation Master Class Series:      Join us for the inaugural session of the Program ... |
+| **September 28** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524433-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
+| **September 28** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524138-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
 
 ---
 
