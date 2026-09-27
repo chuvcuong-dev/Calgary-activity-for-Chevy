@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-26 14:02:18
+> **Last Updated:** 2026-09-27 14:02:07
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -55,8 +55,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 26** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **September 26** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524431-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
 | **September 27** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
 | **September 27** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524432-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
 | **September 27** | [Olympic Oval 39th Birthday Skate](https://events.ucalgary.ca/oval/event/523756-olympic-oval-39th-birthday-skate) | Olympic Oval | We’re turning 39 — and what better way to celebrate than with a skate on The Fastest Ice in the World™? Join us at the Olympic Oval, lace up you... |
@@ -67,6 +65,8 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **September 28** | [Program Evaluation Master Class Series - Understanding Program Evaluation](https://events.ucalgary.ca/live/events/524419-program-evaluation-master-class-series-program-evalua) | HSC G500 | Register To Attend This Masterclass   &#160;      Program Evaluation Master Class Series:      Join us for the inaugural session of the Program ... |
 | **September 28** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524433-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
 | **September 28** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524138-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
+| **September 28** | [REALISE - Navigating Grad School: Insider Tips from Senior Scholars](https://events.ucalgary.ca/HBI-REALISE-Program/event/523380-realise-navigating-grad-school) | Foothills Campus - HSC O1500 | Get personalized advice from experienced grad students on how to excel academically, balance life, and make the most of your graduate experience. |
+| **September 28** | [Sukkot Celebration](https://events.ucalgary.ca/live/events/524247-sukkot-celebration) | TFDL Quad (Green Space #3) | Learn about and celebrate the Jewish holiday of Sukkot with the Faith and Spirituality Centre! |
 
 ---
 
