@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-27 14:02:07
+> **Last Updated:** 2026-09-28 14:05:13
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -55,9 +55,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 27** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **September 27** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524432-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
-| **September 27** | [Olympic Oval 39th Birthday Skate](https://events.ucalgary.ca/oval/event/523756-olympic-oval-39th-birthday-skate) | Olympic Oval | We’re turning 39 — and what better way to celebrate than with a skate on The Fastest Ice in the World™? Join us at the Olympic Oval, lace up you... |
 | **September 28** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
 | **September 28** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523570-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
 | **September 28** | [RIHSE Rounds](https://events.ucalgary.ca/live/events/524643-rihse-rounds-copy) | HSC G382 or via Zoom | Sign Up to Present at RIHSE Rounds            Presenter(s):      Dr. Daniel Berger, MD, PhD   &#160;   Topic:&#160;      “Outcomes and Evaluatio... |
@@ -67,6 +64,9 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **September 28** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524138-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
 | **September 28** | [REALISE - Navigating Grad School: Insider Tips from Senior Scholars](https://events.ucalgary.ca/HBI-REALISE-Program/event/523380-realise-navigating-grad-school) | Foothills Campus - HSC O1500 | Get personalized advice from experienced grad students on how to excel academically, balance life, and make the most of your graduate experience. |
 | **September 28** | [Sukkot Celebration](https://events.ucalgary.ca/live/events/524247-sukkot-celebration) | TFDL Quad (Green Space #3) | Learn about and celebrate the Jewish holiday of Sukkot with the Faith and Spirituality Centre! |
+| **September 28** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523870-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
+| **September 28** | [Child Health and Wellness Seminar: Measure What Matters: Child Health and Well-Being Indicators in OECD Countries and Alberta](https://events.ucalgary.ca/live/events/chws-sept28) | Zoom | This talk will present findings from a global scoping review on child health and well-being indicators from peer-reviewed and government sources. |
+| **September 28** | [Alumni Career Workshop: Resumé Resources](https://events.ucalgary.ca/alumni/event/520499-alumni-career-workshop-resum-resources) | Online | Join an alumni career coach for this exclusive workshop. |
 
 ---
 
