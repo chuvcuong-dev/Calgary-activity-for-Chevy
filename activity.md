@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-29 14:05:13
+> **Last Updated:** 2026-09-30 14:06:07
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -55,18 +55,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 29** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **September 29** | [Cardiac Sciences Grand Rounds](https://events.ucalgary.ca/libin/event/525481-cardiac-sciences-grand-rounds) | HSC G382 | Join us for Cardiac Sciences Grand Rounds. This event features Dr. Michael Curtis, Dr. Corey Adams, Dr. Matthew Cheung and Dr. William Kent, pre... |
-| **September 29** | [Department of Medicine Medical Grand Rounds](https://events.ucalgary.ca/cumming/medicine/event/525576-department-of-medicine-medical-grand-rounds) | Zoom Presentation | “Beyond Benzos: An Introduction to Calgary’s Phenobarbital Pathway for the Management of Alcohol Withdrawal”   Dr. Elizabeth MacKay |
-| **September 29** | [CANCELED: Research Update Seminar Series](https://events.ucalgary.ca/libin/event/524942-research-update-seminar-series) | HSC 1405B | Join us for the next RUSS session. Details TBA.&#160; |
-| **September 29** | [Coordinator Community of Practice](https://events.ucalgary.ca/research/cccr/event/524274-coordinator-community-of-practice) | Suite 400, 4th floor, Cal Wenzel Precision Health Building | The Coordinator Community of Practice is open to UCalgary clinical researchers, coordinators and staff of all levels. These interactive sessions wi... |
-| **September 29** | [Toronto Metropolitan University Law and Business Student Association Law Fair](https://events.ucalgary.ca/law-admissions/event/524279-toronto-metropolitan-university-law-and-business) | Toronto Metropolitan University | Join us for the Toronto Metropolitan University Law and Business Student Association Law Fair to learn more about UCalgary Law and why it’s the bes... |
-| **September 29** | [Admissions Advising Session with UCalgary Law](https://events.ucalgary.ca/law/event/522291-admissions-advising-session-with-ucalgary-law) | TBD / Online | Stop by our online office hours to meet with a member of our Admissions team and ask your questions about applying to law school or about UCalgary ... |
-| **September 29** | [Taking it to the Streets: Stories of Resilience, Connection, and Living Well with Dementia](https://events.ucalgary.ca/live/events/524434-taking-it-to-the-streets-stories-of-resilience) | Little Gallery, 6th Floor Department of Arts / Arts Parkade Building University of Calgary | Join Dr. Jasmine Hwang, assistant professor at the Faculty of Nursing, for a free public art exhibition to expand our understanding of dementia. |
-| **September 29** | [TOUR – Indigenous Art in the TFDL](https://events.ucalgary.ca/nickle-galleries/event/523270-tour-indigenous-art-in-the-tfdl) | Taylor Family Digital Library | Join Kaia MacLeod for an intimate tour of Library and Cultural Resources collection of Treaty 7 art works. |
-| **September 29** | [Clearing the Haze Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524042-clearing-the-haze-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Clearing the Haze is a peer-led discussion space focused on exploring relationships with cannabis, nicotine, and vaping. Open to students, staff... |
-| **September 29** | [Eating and Body Image Peer Support Meeting](https://events.ucalgary.ca/live/events/524094-eating-and-body-image-peer-support-meeting) | Women’s Resource Centre Library (MSC 482) | This topic discussion meeting is for students, faculty, staff and alumni in recovery from an eating disorder, disordered eating, and/or curious ... |
-| **September 29** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522746-affordable-market) | Campus Food Hub |  |
+| **September 30** | [National Day for Truth and Reconciliation (University closure)](https://events.ucalgary.ca/registrar/event/515647-national-day-for-truth-and-reconciliation) | TBD / Online |  |
+| **September 30** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **September 30** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523571-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
+| **September 30** | [CANCELED: Rheumatology Rounds](https://events.ucalgary.ca/cumming/medicine/event/524298-rheumatology-rounds) | Theatre 1, HSC, Foothills Campus |  |
+| **September 30** | [Health Promotion Passport Challenge](https://events.ucalgary.ca/wellness-services/event/524370-health-promotion-passport-challenge) | UCalgary Main Campus | Explore campus, collect stamps for a chance to win prizes, and discover resources that can support your well-being throughout your university jo... |
+| **September 30** | [Kokum Calls You...](https://events.ucalgary.ca/live/events/525166-kokum-calls-you) | Red and White Club, McMahon Stadium |  |
+| **September 30** | [Fresh Routes Mobile Market](https://events.ucalgary.ca/live/events/504337-fresh-routes-mobile-market) | Health Sciences Centre Mall (Hippocrates Mall) (By stairs to library) | Fresh Routes is a mobile grocery store that brings healthy and affordable vegetables, fruit and eggs right to the Foothills campus.   Weekly on ... |
+| **September 30** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522761-affordable-market) | Campus Food Hub |  |
+| **September 30** | [Exhibition – CrossCraft Pattern Systems](https://events.ucalgary.ca/live/events/523662-exhibition-crosscraft-pattern-systems) | Taylor Family Digital Library - 5th floor, north end | CrossCraft is the result of a research-creation project that explores different textile techniques as systems of repetition, structure and patte... |
+| **September 30** | [LadleUP!](https://events.ucalgary.ca/career-personal-development/event/522851-ladleup) | Campus Food Hub |  |
+| **September 30** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/student-accessibility-services/event/525598-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
+| **September 30** | [Trinity College Post Graduate Fair](https://events.ucalgary.ca/law-admissions/event/524282-trinity-college-post-graduate-fair) | Seeley Hall, 6 Hoskin Avenue | Join us at the Trinity College Post Graduate Fair to learn more about our law school and why it may be the best fit for you.&#160; |
 
 ---
 
