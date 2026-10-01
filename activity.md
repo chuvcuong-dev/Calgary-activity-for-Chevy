@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-09-30 14:06:07
+> **Last Updated:** 2026-10-01 14:06:06
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -55,18 +55,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **September 30** | [National Day for Truth and Reconciliation (University closure)](https://events.ucalgary.ca/registrar/event/515647-national-day-for-truth-and-reconciliation) | TBD / Online |  |
-| **September 30** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **September 30** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523571-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
-| **September 30** | [CANCELED: Rheumatology Rounds](https://events.ucalgary.ca/cumming/medicine/event/524298-rheumatology-rounds) | Theatre 1, HSC, Foothills Campus |  |
-| **September 30** | [Health Promotion Passport Challenge](https://events.ucalgary.ca/wellness-services/event/524370-health-promotion-passport-challenge) | UCalgary Main Campus | Explore campus, collect stamps for a chance to win prizes, and discover resources that can support your well-being throughout your university jo... |
-| **September 30** | [Kokum Calls You...](https://events.ucalgary.ca/live/events/525166-kokum-calls-you) | Red and White Club, McMahon Stadium |  |
-| **September 30** | [Fresh Routes Mobile Market](https://events.ucalgary.ca/live/events/504337-fresh-routes-mobile-market) | Health Sciences Centre Mall (Hippocrates Mall) (By stairs to library) | Fresh Routes is a mobile grocery store that brings healthy and affordable vegetables, fruit and eggs right to the Foothills campus.   Weekly on ... |
-| **September 30** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522761-affordable-market) | Campus Food Hub |  |
-| **September 30** | [Exhibition – CrossCraft Pattern Systems](https://events.ucalgary.ca/live/events/523662-exhibition-crosscraft-pattern-systems) | Taylor Family Digital Library - 5th floor, north end | CrossCraft is the result of a research-creation project that explores different textile techniques as systems of repetition, structure and patte... |
-| **September 30** | [LadleUP!](https://events.ucalgary.ca/career-personal-development/event/522851-ladleup) | Campus Food Hub |  |
-| **September 30** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/student-accessibility-services/event/525598-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
-| **September 30** | [Trinity College Post Graduate Fair](https://events.ucalgary.ca/law-admissions/event/524282-trinity-college-post-graduate-fair) | Seeley Hall, 6 Hoskin Avenue | Join us at the Trinity College Post Graduate Fair to learn more about our law school and why it may be the best fit for you.&#160; |
+| **October 1** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **October 1** | [Renal Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525293-renal-rounds-hybrid) | Theatre One, Health Sciences Centre, Foothills Campus | “New Strategies for Antimicrobial Therapies”   Dr. Nathan Bracey |
+| **October 1** | [CSM TEP - Teaching Excellence Program Track I - Day 2](https://events.ucalgary.ca/live/events/521697-csm-tep-teaching-excellence-program-track-i-day-2) | Foothills Campus | This comprehensive faculty development program has been designed to support educators at every stage of their teaching careers, from novice to e... |
+| **October 1** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525372-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips, sh... |
+| **October 1** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524086-donuts-and-discussions-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
+| **October 1** | [Global Experiences 101](https://events.ucalgary.ca/live/events/525765-global-experiences-101) | Science B101 | Ignite your global learning adventure! Explore programs that allow you to complete parts of your UCalgary degree abroad and shape your internati... |
+| **October 1** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522776-affordable-market) | Campus Food Hub |  |
+| **October 1** | [Nursing Research Office Workshop - Applying for Ethics using IRISS](https://events.ucalgary.ca/nursing/event/477655-nursing-research-office-workshop-applying-for-ethics-) | Zoom |  |
+| **October 1** | [Nickle@Noon – Glenna Cardinal &amp; seth cardinal dodginghorse: Artists’ Talk](https://events.ucalgary.ca/live/events/523388-nicklenoon-glenna-cardinal-seth-dodginghorse-cardinal) | Nickle Galleries, Taylor Family Digital Library | Mother and son artists, Glenna Cardinal (Saddle Lake Cree Nation member/Tsuut’ina Nation) and seth cardinal dodginghorse (Tsuut’ina, Amskapi Pik... |
+| **October 1** | [Step Into Fall - Weekly Walk](https://events.ucalgary.ca/wellness-services/event/520798-step-into-fall-weekly-walk) | TFDL Quad (Pride Stairs) | Join us for a 30-minute walk around campus as we connect with nature and admire the beautiful fall colors! Get ready to meet new people, familia... |
+| **October 1** | [CANCELED: Conflict Management 101](https://events.ucalgary.ca/live/events/524613-conflict-management-101) | Dining Centre, room DC-016 | Grow your conflict management skills! |
+| **October 1** | [Hematology Rounds](https://events.ucalgary.ca/cumming/medicine/event/525296-hematology-rounds) | Zoom Presentation | “Treatment-Refractory Thrombocytopenia After Confirmed TTP: A Case of Lupus Cytopenia”   Dr. Nina Castrogiovanni |
 
 ---
 
