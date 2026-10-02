@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-01 14:06:06
+> **Last Updated:** 2026-10-02 14:04:40
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -12,8 +12,6 @@
 
 | Date | Category | Activity / Milestone | Details & Action |
 | :--- | :--- | :--- | :--- |
-| **2026-10-01** | Scholarships & Awards | **UCalgary Admissions & Prestige Awards Applications Open** | Admissions and entrance prestige award portals open for subsequent cycle. |
-| **2026-10-01** | Department Activity | **BSA BIO 241 Midterm 1 Exam Prep & Review Session** | Hosted by Biology Students' Association. Peer review of cellular biology and past exam questions. |
 | **2026-10-08** | Faculty of Science | **Science Internship Program (SIP) - 1st Year Exploration Session** | Learn how to prepare in Year 1 to qualify for 8-to-16 month paid industry internships in Year 3. |
 | **2026-10-15** | Support / Advising | **Faculty of Science Peer Mentorship Check-in & Study Skills** | Meet senior biology mentors for advice on managing biology lab reports and chemistry tutorials. |
 | **2026-10-22** | Department Activity | **BSA 'Meet the Biology Professors' Research Night** | Faculty members present ongoing research in ecology, genetics, and cellular biology. Key for finding summer supervisors! |
@@ -55,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 1** | [Neurodivergent Graduate Student Community Fall 2026](https://events.ucalgary.ca/live/events/524730-neurodivergent-graduate-student-community-fall-2026) | TFDL 355D, Student Success Centre | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **October 1** | [Renal Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525293-renal-rounds-hybrid) | Theatre One, Health Sciences Centre, Foothills Campus | “New Strategies for Antimicrobial Therapies”   Dr. Nathan Bracey |
-| **October 1** | [CSM TEP - Teaching Excellence Program Track I - Day 2](https://events.ucalgary.ca/live/events/521697-csm-tep-teaching-excellence-program-track-i-day-2) | Foothills Campus | This comprehensive faculty development program has been designed to support educators at every stage of their teaching careers, from novice to e... |
-| **October 1** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525372-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips, sh... |
-| **October 1** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524086-donuts-and-discussions-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
-| **October 1** | [Global Experiences 101](https://events.ucalgary.ca/live/events/525765-global-experiences-101) | Science B101 | Ignite your global learning adventure! Explore programs that allow you to complete parts of your UCalgary degree abroad and shape your internati... |
-| **October 1** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522776-affordable-market) | Campus Food Hub |  |
-| **October 1** | [Nursing Research Office Workshop - Applying for Ethics using IRISS](https://events.ucalgary.ca/nursing/event/477655-nursing-research-office-workshop-applying-for-ethics-) | Zoom |  |
-| **October 1** | [Nickle@Noon – Glenna Cardinal &amp; seth cardinal dodginghorse: Artists’ Talk](https://events.ucalgary.ca/live/events/523388-nicklenoon-glenna-cardinal-seth-dodginghorse-cardinal) | Nickle Galleries, Taylor Family Digital Library | Mother and son artists, Glenna Cardinal (Saddle Lake Cree Nation member/Tsuut’ina Nation) and seth cardinal dodginghorse (Tsuut’ina, Amskapi Pik... |
-| **October 1** | [Step Into Fall - Weekly Walk](https://events.ucalgary.ca/wellness-services/event/520798-step-into-fall-weekly-walk) | TFDL Quad (Pride Stairs) | Join us for a 30-minute walk around campus as we connect with nature and admire the beautiful fall colors! Get ready to meet new people, familia... |
-| **October 1** | [CANCELED: Conflict Management 101](https://events.ucalgary.ca/live/events/524613-conflict-management-101) | Dining Centre, room DC-016 | Grow your conflict management skills! |
-| **October 1** | [Hematology Rounds](https://events.ucalgary.ca/cumming/medicine/event/525296-hematology-rounds) | Zoom Presentation | “Treatment-Refractory Thrombocytopenia After Confirmed TTP: A Case of Lupus Cytopenia”   Dr. Nina Castrogiovanni |
+| **October 2** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523572-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
+| **October 2** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 2** | [City-Wide Surgical Rounds](https://events.ucalgary.ca/cumming/surgery/event/518671-city-wide-surgical-rounds) | HSC Theatre One &amp; Zoom |  |
+| **October 2** | [Respiratory Medicine Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525495-respiratory-medicine-rounds-hybrid) | W21C Boardroom, CWPH | “Cardiac Sarcoidosis”   Dr. Kristin Lyons |
+| **October 2** | [Apply to be a Wellness Education Team Peer Helper!](https://events.ucalgary.ca/wellness-services/event/525725-apply-to-be-a-wellness-education-team-peer-helper) | Online Application | Looking for a meaningful volunteer opportunity? Join Student Wellness Services’ Wellness Education Team! Peer Helpers deliver 5-minute classroom... |
+| **October 2** | [Planning for Impact in Health Research: A Hands-On Knowledge Mobilization Workshop](https://events.ucalgary.ca/live/events/planning-for-impact) | Zoom | Want to strengthen your knowledge mobilization strategy and impact? |
+| **October 2** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523390-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
+| **October 2** | [REALISE - The Next Step: Landing your Own Faculty Position - Program Orientation](https://events.ucalgary.ca/HBI-REALISE-Program/event/525658-realise-the-next-step-orientation) | Foothills Campus - HSC O1500 | Program orientation for The Next Step: Landing your Own Faculty Position, a career development program for HBI postdocs pursuing academic careers. |
+| **October 2** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522791-affordable-market) | Campus Food Hub |  |
+| **October 2** | [TOUR – Introduction to Textiles: Materials, Processes, and Nickle Galleries](https://events.ucalgary.ca/live/events/523543-tour-introduction-to-textiles-materials-processes-and) | Taylor Family Digital Library | Join curator and textile scholar, Michele Hardy for an interactive look at textiles and textile structures using samples drawn from Nickle Galle... |
+| **October 2** | [Building Age-Friendly University Libraries Together](https://workrooms.ucalgary.ca/calendar/lcr-workshops/Building_Age_Friendly_University_Libraries) | Gallery Hall, TFDL |  |
+| **October 2** | [Career, Learning, and Growth in Health Care: A Conversation with Dr. Fadumo Robinson](https://events.ucalgary.ca/nursing/event/524891-career-learning-and-growth-in-health-care-a) | PF 2275 | Join us Friday, Oct. 2, for a UCalgary nursing student session with alum Dr. Fadumo Robinson, DN’26, as she shares her career journey, experienc... |
 
 ---
 
