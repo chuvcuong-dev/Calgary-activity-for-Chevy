@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-02 14:04:40
+> **Last Updated:** 2026-10-03 18:28:34
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 2** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523572-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
-| **October 2** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 2** | [City-Wide Surgical Rounds](https://events.ucalgary.ca/cumming/surgery/event/518671-city-wide-surgical-rounds) | HSC Theatre One &amp; Zoom |  |
-| **October 2** | [Respiratory Medicine Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525495-respiratory-medicine-rounds-hybrid) | W21C Boardroom, CWPH | “Cardiac Sarcoidosis”   Dr. Kristin Lyons |
-| **October 2** | [Apply to be a Wellness Education Team Peer Helper!](https://events.ucalgary.ca/wellness-services/event/525725-apply-to-be-a-wellness-education-team-peer-helper) | Online Application | Looking for a meaningful volunteer opportunity? Join Student Wellness Services’ Wellness Education Team! Peer Helpers deliver 5-minute classroom... |
-| **October 2** | [Planning for Impact in Health Research: A Hands-On Knowledge Mobilization Workshop](https://events.ucalgary.ca/live/events/planning-for-impact) | Zoom | Want to strengthen your knowledge mobilization strategy and impact? |
-| **October 2** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523390-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
-| **October 2** | [REALISE - The Next Step: Landing your Own Faculty Position - Program Orientation](https://events.ucalgary.ca/HBI-REALISE-Program/event/525658-realise-the-next-step-orientation) | Foothills Campus - HSC O1500 | Program orientation for The Next Step: Landing your Own Faculty Position, a career development program for HBI postdocs pursuing academic careers. |
-| **October 2** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522791-affordable-market) | Campus Food Hub |  |
-| **October 2** | [TOUR – Introduction to Textiles: Materials, Processes, and Nickle Galleries](https://events.ucalgary.ca/live/events/523543-tour-introduction-to-textiles-materials-processes-and) | Taylor Family Digital Library | Join curator and textile scholar, Michele Hardy for an interactive look at textiles and textile structures using samples drawn from Nickle Galle... |
-| **October 2** | [Building Age-Friendly University Libraries Together](https://workrooms.ucalgary.ca/calendar/lcr-workshops/Building_Age_Friendly_University_Libraries) | Gallery Hall, TFDL |  |
-| **October 2** | [Career, Learning, and Growth in Health Care: A Conversation with Dr. Fadumo Robinson](https://events.ucalgary.ca/nursing/event/524891-career-learning-and-growth-in-health-care-a) | PF 2275 | Join us Friday, Oct. 2, for a UCalgary nursing student session with alum Dr. Fadumo Robinson, DN’26, as she shares her career journey, experienc... |
+| **October 3** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 3** | [bp Canada Trading Competition](https://events.ucalgary.ca/haskayne/event/524454-bp-canada-trading-competition) | Mathison Hall Events Centre (MTH 306) | Ever wondered what energy trading is really like? Register now for the bp Canada Trading Competition on Oct. 3. |
+| **October 4** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 4** | [The Western Summit for Health Professions Education Research - Oct 4-5/26](https://events.ucalgary.ca/live/events/502922-save-the-date-western-summit-for-health-professions-e) | Alt-Hotel - University District, Calgary, AB | The Western Summit is the first annual meeting for Health Professions Education (HPE) researchers and scholars in Western Canada. The Summit is ... |
+| **October 4** | [WRC 20th Anniversary Art Showcase: Artist Call-Out](https://events.ucalgary.ca/womens-centre/event/524278-wrc-20th-anniversary-art-showcase-artist-call-out) | TBD / Online | Calling all artists and creatives for a live art showcase to commemorate Women’s History Month and the WRC’s 20th Anniversary! |
+| **October 5** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523573-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
+| **October 5** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 5** | [The Western Summit for Health Professions Education Research - Oct 4-5/26](https://events.ucalgary.ca/live/events/502922-save-the-date-western-summit-for-health-professions-e) | Alt-Hotel - University District, Calgary, AB | The Western Summit is the first annual meeting for Health Professions Education (HPE) researchers and scholars in Western Canada. The Summit is ... |
+| **October 5** | [RIHSE Rounds](https://events.ucalgary.ca/live/events/524644-rihse-rounds-copy) | HSC G382 or via Zoom | There will be no RIHSE rounds on October 5, 2026 due to The Western Summit for Health Professions Education Research.      We will see you at ou... |
+| **October 5** | [Your Life Dashboard: Life Design Bite (Drop-in)](https://events.ucalgary.ca/live/events/522038-your-life-dashboard-life-design-bite-drop-in) | Life Design Hub, MSC171 | Looking to understand where your energy levels are? Join us for our drop-in activity to see where we are in our personal journeys and brainstorm... |
+| **October 5** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524139-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
+| **October 5** | [CIHR Consultation Session](https://events.ucalgary.ca/live/events/525186-cihr-consultation-session) | Online | ​The Canadian Institutes of Health Research (CIHR) is hosting a consultation session for the UCalgary community to share information on a white pap... |
 
 ---
 
