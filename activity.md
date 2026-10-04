@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-03 18:28:34
+> **Last Updated:** 2026-10-04 18:32:49
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,8 +53,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 3** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 3** | [bp Canada Trading Competition](https://events.ucalgary.ca/haskayne/event/524454-bp-canada-trading-competition) | Mathison Hall Events Centre (MTH 306) | Ever wondered what energy trading is really like? Register now for the bp Canada Trading Competition on Oct. 3. |
 | **October 4** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
 | **October 4** | [The Western Summit for Health Professions Education Research - Oct 4-5/26](https://events.ucalgary.ca/live/events/502922-save-the-date-western-summit-for-health-professions-e) | Alt-Hotel - University District, Calgary, AB | The Western Summit is the first annual meeting for Health Professions Education (HPE) researchers and scholars in Western Canada. The Summit is ... |
 | **October 4** | [WRC 20th Anniversary Art Showcase: Artist Call-Out](https://events.ucalgary.ca/womens-centre/event/524278-wrc-20th-anniversary-art-showcase-artist-call-out) | TBD / Online | Calling all artists and creatives for a live art showcase to commemorate Women’s History Month and the WRC’s 20th Anniversary! |
@@ -65,6 +63,8 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **October 5** | [Your Life Dashboard: Life Design Bite (Drop-in)](https://events.ucalgary.ca/live/events/522038-your-life-dashboard-life-design-bite-drop-in) | Life Design Hub, MSC171 | Looking to understand where your energy levels are? Join us for our drop-in activity to see where we are in our personal journeys and brainstorm... |
 | **October 5** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524139-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
 | **October 5** | [CIHR Consultation Session](https://events.ucalgary.ca/live/events/525186-cihr-consultation-session) | Online | ​The Canadian Institutes of Health Research (CIHR) is hosting a consultation session for the UCalgary community to share information on a white pap... |
+| **October 5** | [Designing Your Uni Arc](https://events.ucalgary.ca/live/events/525304-designing-your-uni-arc) | Science B 101 |  |
+| **October 5** | [Roger Admiral and the Edmonton Saxophone Quartet](https://events.ucalgary.ca/live/events/520179-roger-admiral-and-the-edmonton-saxophone-quartet) | Eckhardt-Gramatté Hall, Rozsa Centre | Camrose pianist Roger Admiral joins forces with the Edmonton Saxophone Quartet for a performance that sits at the thrilling intersection of funk... |
 
 ---
 
