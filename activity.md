@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-04 18:32:49
+> **Last Updated:** 2026-10-05 14:06:41
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,9 +53,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 4** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 4** | [The Western Summit for Health Professions Education Research - Oct 4-5/26](https://events.ucalgary.ca/live/events/502922-save-the-date-western-summit-for-health-professions-e) | Alt-Hotel - University District, Calgary, AB | The Western Summit is the first annual meeting for Health Professions Education (HPE) researchers and scholars in Western Canada. The Summit is ... |
-| **October 4** | [WRC 20th Anniversary Art Showcase: Artist Call-Out](https://events.ucalgary.ca/womens-centre/event/524278-wrc-20th-anniversary-art-showcase-artist-call-out) | TBD / Online | Calling all artists and creatives for a live art showcase to commemorate Women’s History Month and the WRC’s 20th Anniversary! |
 | **October 5** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523573-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00 pm... |
 | **October 5** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
 | **October 5** | [The Western Summit for Health Professions Education Research - Oct 4-5/26](https://events.ucalgary.ca/live/events/502922-save-the-date-western-summit-for-health-professions-e) | Alt-Hotel - University District, Calgary, AB | The Western Summit is the first annual meeting for Health Professions Education (HPE) researchers and scholars in Western Canada. The Summit is ... |
@@ -65,6 +62,9 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **October 5** | [CIHR Consultation Session](https://events.ucalgary.ca/live/events/525186-cihr-consultation-session) | Online | ​The Canadian Institutes of Health Research (CIHR) is hosting a consultation session for the UCalgary community to share information on a white pap... |
 | **October 5** | [Designing Your Uni Arc](https://events.ucalgary.ca/live/events/525304-designing-your-uni-arc) | Science B 101 |  |
 | **October 5** | [Roger Admiral and the Edmonton Saxophone Quartet](https://events.ucalgary.ca/live/events/520179-roger-admiral-and-the-edmonton-saxophone-quartet) | Eckhardt-Gramatté Hall, Rozsa Centre | Camrose pianist Roger Admiral joins forces with the Edmonton Saxophone Quartet for a performance that sits at the thrilling intersection of funk... |
+| **October 5** | [Quick Bites for Busy Mornings](https://events.ucalgary.ca/live/events/521684-quick-bites-for-busy-mornings) | Life Design Hub (MSC 171) | Join us for a fun, hands-on workshop designed for first-year students. Learn how to make a quick, no-cook breakfast using affordable ingredients... |
+| **October 5** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523871-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
+| **October 5** | [Smudge Teachings with Elder Kerrie - In Person](https://events.ucalgary.ca/social-work/event/524545-smudge-teachings-with-elder-kerrie-in-person) | Kiipitakyoyis - Grandmother’s Lodge - Rm 330, 3rd Floor Mackimmie | Kiipitakyoyis, Grandmother’s Lodge invites all Faculty of Social Work students to join Métis/Cree Elder Kerrie Moore for tea and conversation as... |
 
 ---
 
