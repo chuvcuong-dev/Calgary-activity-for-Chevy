@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-07 14:04:26
+> **Last Updated:** 2026-10-08 14:06:12
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 7** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523574-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 7** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 7** | [Rheumatology Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525483-rheumatology-rounds-hybrid) | Theatre One, HSC, Foothills Campus | “Food for Thought: Take Homes from EULAR on Diet and Disease”   Dr. M. Sosniuk &#160; |
-| **October 7** | [Health Promotion Passport Challenge](https://events.ucalgary.ca/wellness-services/event/524371-health-promotion-passport-challenge) | UCalgary Main Campus | Explore campus, collect stamps for a chance to win prizes, and discover resources that can support your well-being throughout your university jo... |
-| **October 7** | [Fitness Centre Orientation (Spy Hill Campus)](https://events.ucalgary.ca/spyhillcampusfitnesscentre/event/524695-fitness-centre-orientation-spy-hill-campus) | Spy Hill Campus Fitness Centre, CSB 110Z | Whether you’re new to fitness or simply new to the Spy Hill Campus Fitness Centre, this orientation is a great way to get started. |
-| **October 7** | [Isha Sharma](https://events.ucalgary.ca/irn/event/520910-isha-sharma) | HSC 1405A | MSc Student   Department of Microbiology, Immunology &amp; Infectious Diseases |
-| **October 7** | [AI for Entrepreneurial Thinking Skills Clinic - AI Essentials](https://events.ucalgary.ca/hunter-hub/event/525183-ai-for-entrepreneurial-thinking-skills-clinic-ai) | 460 Campus Lane NW, Calgary, AB T2N 1N4 | This interactive Skills Clinic is designed specifically for entrepreneurs and students who want to move past the AI hype and build real, human-c... |
-| **October 7** | [Mount Royal University Graduate Studies Fair](https://events.ucalgary.ca/law-admissions/event/524285-mount-royal-university-graduate-studies-fair) | Main Building (Lincoln Park Campus) second floor. Wright and Leacock Theatre foyer, S-Wing | Join us at the Mount Royal University Graduate Studies Fair to find out why UCalgary Law is the law school for you. |
-| **October 7** | [Fresh Routes Mobile Market](https://events.ucalgary.ca/live/events/504338-fresh-routes-mobile-market) | Health Sciences Centre Mall (Hippocrates Mall) (By stairs to library) | Fresh Routes is a mobile grocery store that brings healthy and affordable vegetables, fruit and eggs right to the Foothills campus.   Weekly on ... |
-| **October 7** | [Mini Change of Program Fair](https://events.ucalgary.ca/live/events/522962-mini-change-of-program-fair) | Life Design Hub in MacEwan Student Centre (MSC 171) | mini-faculty resource fair about their academic programs and Change of Program process. |
-| **October 7** | [Career and Degree Exploration Days (Day 2)](https://events.ucalgary.ca/live/events/522866-career-and-degree-exploration-days-day-2) | Life Design Hub (MSC 171) | A 2-day event for students trying to decide if they want to do a Change of Program and/or find ways to test out and gain experience as they deci... |
-| **October 7** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522762-affordable-market) | Campus Food Hub |  |
+| **October 8** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 8** | [Renal Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525294-renal-rounds-hybrid) | Theatre One, Health Sciences Centre, Foothills Campus | “Making Shared Decision Making Work in Kidney Care: From Evidence to Clinical Practice”   Dr. Jeanette Finderup, visiting speaker |
+| **October 8** | [CSM TEP - Teaching Excellence Program Track I - Day 3 (In-Person)](https://events.ucalgary.ca/ofd/event/495853-csm-tep-teaching-excellence-program-track-i-day-3-in-) | Foothills Campus | This comprehensive faculty development program has been designed to support educators at every stage of their teaching careers, from novice to e... |
+| **October 8** | [USpeak Tagalog Conversation Table](https://events.ucalgary.ca/international-student-services/event/525747-uspeak-tagalog-conversation-table) | International Student Services (MSC 275) | Looking to practice your Tagalog conversation skills in a friendly and informal setting?      The USpeak Tagalog Conversation Table is the perfe... |
+| **October 8** | [Book Launch: Epistemic Freedom in Africa](https://events.ucalgary.ca/live/events/524417-book-launch-epistemic-freedom-in-africa) | PF 2285 &amp; Zoom | Deprovincialization and Decolonization      See detailed information here.&#160; |
+| **October 8** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525373-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **October 8** | [Unplugged Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524150-unplugged-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Unplugged is a peer-led, device-free support space focused on intentional connection and presence. Each session uses conversation prompts to enc... |
+| **October 8** | [Graduate &amp; Professional School Fair](https://events.ucalgary.ca/career-personal-development/event/519481-graduate-professional-school-fair) | MacEwan Hall A/B | Pursue your passions further by discovering opportunities for graduate programs or professional certification. |
+| **October 8** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522777-affordable-market) | Campus Food Hub |  |
+| **October 8** | [Nickle@Noon – Deployed: Canadian Army Reservists Overseas](https://events.ucalgary.ca/live/events/523410-nicklenoon-deployed-canadian-army-reservists-overseas) | Nickle Galleries, Taylor Family Digital Library | Dick Averns discusses his newest exhibition, Deployed, opening October 1, 2026 at Founders Gallery, The Military Museums of Calgary. |
+| **October 8** | [Step Into Fall - Weekly Walk](https://events.ucalgary.ca/wellness-services/event/520799-step-into-fall-weekly-walk) | TFDL Quad (Pride Stairs) | Join us for a 30-minute walk around campus as we connect with nature and admire the beautiful fall colors! Get ready to meet new people, familia... |
+| **October 8** | [Hematology Rounds](https://events.ucalgary.ca/cumming/medicine/event/525297-hematology-rounds) | Zoom Presentation | “Day Medicine QI”   Dr. Chandra Thomas |
 
 ---
 
