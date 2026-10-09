@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-08 14:06:12
+> **Last Updated:** 2026-10-09 14:06:34
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -12,9 +12,9 @@
 
 | Date | Category | Activity / Milestone | Details & Action |
 | :--- | :--- | :--- | :--- |
-| **2026-10-08** | Faculty of Science | **Science Internship Program (SIP) - 1st Year Exploration Session** | Learn how to prepare in Year 1 to qualify for 8-to-16 month paid industry internships in Year 3. |
 | **2026-10-15** | Support / Advising | **Faculty of Science Peer Mentorship Check-in & Study Skills** | Meet senior biology mentors for advice on managing biology lab reports and chemistry tutorials. |
 | **2026-10-22** | Department Activity | **BSA 'Meet the Biology Professors' Research Night** | Faculty members present ongoing research in ecology, genetics, and cellular biology. Key for finding summer supervisors! |
+| **2026-11-08 to 2026-11-14** | Academic Milestone | **Fall Term Break (Reading Week)** | Fall break. Ideal time to catch up on lab write-ups and study for second midterms. |
 
 ---
 
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 8** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 8** | [Renal Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525294-renal-rounds-hybrid) | Theatre One, Health Sciences Centre, Foothills Campus | “Making Shared Decision Making Work in Kidney Care: From Evidence to Clinical Practice”   Dr. Jeanette Finderup, visiting speaker |
-| **October 8** | [CSM TEP - Teaching Excellence Program Track I - Day 3 (In-Person)](https://events.ucalgary.ca/ofd/event/495853-csm-tep-teaching-excellence-program-track-i-day-3-in-) | Foothills Campus | This comprehensive faculty development program has been designed to support educators at every stage of their teaching careers, from novice to e... |
-| **October 8** | [USpeak Tagalog Conversation Table](https://events.ucalgary.ca/international-student-services/event/525747-uspeak-tagalog-conversation-table) | International Student Services (MSC 275) | Looking to practice your Tagalog conversation skills in a friendly and informal setting?      The USpeak Tagalog Conversation Table is the perfe... |
-| **October 8** | [Book Launch: Epistemic Freedom in Africa](https://events.ucalgary.ca/live/events/524417-book-launch-epistemic-freedom-in-africa) | PF 2285 &amp; Zoom | Deprovincialization and Decolonization      See detailed information here.&#160; |
-| **October 8** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525373-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **October 8** | [Unplugged Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524150-unplugged-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Unplugged is a peer-led, device-free support space focused on intentional connection and presence. Each session uses conversation prompts to enc... |
-| **October 8** | [Graduate &amp; Professional School Fair](https://events.ucalgary.ca/career-personal-development/event/519481-graduate-professional-school-fair) | MacEwan Hall A/B | Pursue your passions further by discovering opportunities for graduate programs or professional certification. |
-| **October 8** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522777-affordable-market) | Campus Food Hub |  |
-| **October 8** | [Nickle@Noon – Deployed: Canadian Army Reservists Overseas](https://events.ucalgary.ca/live/events/523410-nicklenoon-deployed-canadian-army-reservists-overseas) | Nickle Galleries, Taylor Family Digital Library | Dick Averns discusses his newest exhibition, Deployed, opening October 1, 2026 at Founders Gallery, The Military Museums of Calgary. |
-| **October 8** | [Step Into Fall - Weekly Walk](https://events.ucalgary.ca/wellness-services/event/520799-step-into-fall-weekly-walk) | TFDL Quad (Pride Stairs) | Join us for a 30-minute walk around campus as we connect with nature and admire the beautiful fall colors! Get ready to meet new people, familia... |
-| **October 8** | [Hematology Rounds](https://events.ucalgary.ca/cumming/medicine/event/525297-hematology-rounds) | Zoom Presentation | “Day Medicine QI”   Dr. Chandra Thomas |
+| **October 9** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523575-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
+| **October 9** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 9** | [Respiratory Medicine Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525496-respiratory-medicine-rounds-hybrid) | W21C Boardroom, CWPH | To Be Announced   Dr. Krystelle Godbout |
+| **October 9** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523391-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
+| **October 9** | [Bulk RNA-seq Data Analysis](https://events.ucalgary.ca/snyder/event/522231-bulk-rna-seq-data-analysis) | Health Sciences Centre (HSC) 1508 | The Bioinformatics Hub is pleased to present the third workshop in the HUB Workshop Series: Bulk RNA-seq Data Analysis. This hands-on workshop intr... |
+| **October 9** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522792-affordable-market) | Campus Food Hub |  |
+| **October 9** | [Unwind - Pouch Decorating](https://events.ucalgary.ca/live/events/525282-unwind-pouch-decorating) | Life Design Hub (MSC 171) | Need a study break? Join us for a relaxing afternoon of creativity as you decorate your own pouch with fun art supplies. Unwind, connect with fe... |
+| **October 9** | [Info session: Experiential Learning of Civil Engineering Construction (ENCI 500)](https://events.ucalgary.ca/live/events/524848-info-session-experiential-learning-of-civil) | Room SSE ENG 207 | Learn about the 2027 Experiential Learning of Civil Engineering Construction (ENCI 500) Global Classroom.&#160; |
+| **October 9** | [Electricity Centre Research Lunch](https://events.ucalgary.ca/electricity-centre/event/525097-electricity-centre-research-lunch) | Hunter Hub Collison Space | Presenter: Dr. Greg Welch, Department of Chemistry at UCalgary   Title: From Molecules to Materials: Using Chemistry to Create Printed Energy De... |
+| **October 9** | [FATS: Biological or Abiotic? Hydrated Carbonate Formation and Early Diagenesis in a Patagonian Natural Laboratory: The Thrombolites of Strobel Lake, Argentina](https://events.ucalgary.ca/earth-energy-environment/event/526223-fats-biological-or-abiotic-hydrated-carbonate-formati) | Science Theatres, Room 147 (ST 147) | Presented by Emiliano Rivarola, geologist from the National University of Córdoba, Argentina. |
+| **October 9** | [Jummah Prayers with the MSA](https://events.ucalgary.ca/faith-spirituality/event/523897-jummah-prayers-with-the-msa) | Vitruvian Space, DC 12 | Facilitated in partnership with the Muslim Students’ Association |
+| **October 9** | [Heart to Heart](https://events.ucalgary.ca/faith-spirituality/event/523698-heart-to-heart) | Faith and Spirituality Centre (MSC 487) | Exploration and sharing on what it means to be spiritual as we find our way in a material world. Open to all. |
 
 ---
 
