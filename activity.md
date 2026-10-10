@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-09 14:06:34
+> **Last Updated:** 2026-10-10 14:01:58
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 9** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523575-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 9** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 9** | [Respiratory Medicine Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525496-respiratory-medicine-rounds-hybrid) | W21C Boardroom, CWPH | To Be Announced   Dr. Krystelle Godbout |
-| **October 9** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523391-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
-| **October 9** | [Bulk RNA-seq Data Analysis](https://events.ucalgary.ca/snyder/event/522231-bulk-rna-seq-data-analysis) | Health Sciences Centre (HSC) 1508 | The Bioinformatics Hub is pleased to present the third workshop in the HUB Workshop Series: Bulk RNA-seq Data Analysis. This hands-on workshop intr... |
-| **October 9** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522792-affordable-market) | Campus Food Hub |  |
-| **October 9** | [Unwind - Pouch Decorating](https://events.ucalgary.ca/live/events/525282-unwind-pouch-decorating) | Life Design Hub (MSC 171) | Need a study break? Join us for a relaxing afternoon of creativity as you decorate your own pouch with fun art supplies. Unwind, connect with fe... |
-| **October 9** | [Info session: Experiential Learning of Civil Engineering Construction (ENCI 500)](https://events.ucalgary.ca/live/events/524848-info-session-experiential-learning-of-civil) | Room SSE ENG 207 | Learn about the 2027 Experiential Learning of Civil Engineering Construction (ENCI 500) Global Classroom.&#160; |
-| **October 9** | [Electricity Centre Research Lunch](https://events.ucalgary.ca/electricity-centre/event/525097-electricity-centre-research-lunch) | Hunter Hub Collison Space | Presenter: Dr. Greg Welch, Department of Chemistry at UCalgary   Title: From Molecules to Materials: Using Chemistry to Create Printed Energy De... |
-| **October 9** | [FATS: Biological or Abiotic? Hydrated Carbonate Formation and Early Diagenesis in a Patagonian Natural Laboratory: The Thrombolites of Strobel Lake, Argentina](https://events.ucalgary.ca/earth-energy-environment/event/526223-fats-biological-or-abiotic-hydrated-carbonate-formati) | Science Theatres, Room 147 (ST 147) | Presented by Emiliano Rivarola, geologist from the National University of Córdoba, Argentina. |
-| **October 9** | [Jummah Prayers with the MSA](https://events.ucalgary.ca/faith-spirituality/event/523897-jummah-prayers-with-the-msa) | Vitruvian Space, DC 12 | Facilitated in partnership with the Muslim Students’ Association |
-| **October 9** | [Heart to Heart](https://events.ucalgary.ca/faith-spirituality/event/523698-heart-to-heart) | Faith and Spirituality Centre (MSC 487) | Exploration and sharing on what it means to be spiritual as we find our way in a material world. Open to all. |
+| **October 10** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 11** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 12** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523576-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
+| **October 12** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 12** | [Thanksgiving Day (University closure)](https://events.ucalgary.ca/registrar/event/515648-thanksgiving-day-university-closure) | TBD / Online |  |
+| **October 12** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523872-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
+| **October 12** | [CANCELED: Bystander Intervention](https://events.ucalgary.ca/live/events/524615-bystander-intervention) | Dining Centre, room DC-016 | Have you ever been in a situation where you felt something was wrong, but you weren’t sure what to do? |
+| **October 12** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/student-accessibility-services/event/525601-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
+| **October 13** | [Empowered Coaching Conversations: Lead Conversations That Build Capacity, Trust &amp; Lasting Change](https://events.ucalgary.ca/social-work/event/517991-empowered-coaching-conversations-lead-conversations-t) | Online (Synchronous) | Develop practical coaching skills to lead more effective conversations that build trust, strengthen relationships, and support meaningful, susta... |
+| **October 13** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 13** | [Department of Medicine Medical Grand Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/526286-department-of-medicine-medical-grand-rounds-hybrid) | Rm. 10331A, RGH | “Primary Biliary Cholangitis: Old Disease, New Directions”   Dr. Laura Stinton |
+| **October 13** | [Research Update Seminar Series](https://events.ucalgary.ca/libin/event/525958-research-update-seminar-series) | HSC 1405A | Join us for the next RUSS session. This session features:      Spencer Fietz, a MSc Graduate Student, supervised by Dr. James White and co-super... |
 
 ---
 
