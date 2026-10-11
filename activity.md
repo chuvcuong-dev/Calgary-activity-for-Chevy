@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-10 14:01:58
+> **Last Updated:** 2026-10-11 14:03:15
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,7 +53,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 10** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
 | **October 11** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
 | **October 12** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523576-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
 | **October 12** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
@@ -65,6 +64,7 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **October 13** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
 | **October 13** | [Department of Medicine Medical Grand Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/526286-department-of-medicine-medical-grand-rounds-hybrid) | Rm. 10331A, RGH | “Primary Biliary Cholangitis: Old Disease, New Directions”   Dr. Laura Stinton |
 | **October 13** | [Research Update Seminar Series](https://events.ucalgary.ca/libin/event/525958-research-update-seminar-series) | HSC 1405A | Join us for the next RUSS session. This session features:      Spencer Fietz, a MSc Graduate Student, supervised by Dr. James White and co-super... |
+| **October 13** | [Admissions Advising Session with UCalgary Law](https://events.ucalgary.ca/law/event/522293-admissions-advising-session-with-ucalgary-law) | TBD / Online | Stop by our online office hours to meet with a member of our Admissions team and ask your questions about applying to law school or about UCalgary ... |
 
 ---
 
