@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-12 14:12:35
+> **Last Updated:** 2026-10-13 14:10:07
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 12** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523576-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 12** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 12** | [Thanksgiving Day (University closure)](https://events.ucalgary.ca/registrar/event/515648-thanksgiving-day-university-closure) | TBD / Online |  |
-| **October 12** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523872-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
-| **October 12** | [CANCELED: Bystander Intervention](https://events.ucalgary.ca/live/events/524615-bystander-intervention) | Dining Centre, room DC-016 | Have you ever been in a situation where you felt something was wrong, but you weren’t sure what to do? |
-| **October 12** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/student-accessibility-services/event/525601-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
 | **October 13** | [Empowered Coaching Conversations: Lead Conversations That Build Capacity, Trust &amp; Lasting Change](https://events.ucalgary.ca/social-work/event/517991-empowered-coaching-conversations-lead-conversations-t) | Online (Synchronous) | Develop practical coaching skills to lead more effective conversations that build trust, strengthen relationships, and support meaningful, susta... |
 | **October 13** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
 | **October 13** | [Department of Medicine Medical Grand Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/526286-department-of-medicine-medical-grand-rounds-hybrid) | Rm. 10331A, RGH | “Primary Biliary Cholangitis: Old Disease, New Directions”   Dr. Laura Stinton |
 | **October 13** | [Research Update Seminar Series](https://events.ucalgary.ca/libin/event/525958-research-update-seminar-series) | HSC 1405A | Join us for the next RUSS session. This session features:      Spencer Fietz, a MSc Graduate Student, supervised by Dr. James White and co-super... |
 | **October 13** | [Admissions Advising Session with UCalgary Law](https://events.ucalgary.ca/law/event/522293-admissions-advising-session-with-ucalgary-law) | TBD / Online | Stop by our online office hours to meet with a member of our Admissions team and ask your questions about applying to law school or about UCalgary ... |
 | **October 13** | [[In-Person] Podcasting 101: Recording and Publishing Your Podcast in the AV Suites](https://workrooms.ucalgary.ca/calendar/lcr-workshops/podcasting) | Digital Media Commons TFDL 340, TFDL |  |
+| **October 13** | [Clearing the Haze Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524044-clearing-the-haze-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Clearing the Haze is a peer-led discussion space focused on exploring relationships with cannabis, nicotine, and vaping. Open to students, staff... |
+| **October 13** | [Eating and Body Image Peer Support Meeting](https://events.ucalgary.ca/live/events/524096-eating-and-body-image-peer-support-meeting) | Women’s Resource Centre Library (MSC 482) | This topic discussion meeting is for students, faculty, staff and alumni in recovery from an eating disorder, disordered eating, and/or curious ... |
+| **October 13** | [A Place to Connect](https://events.ucalgary.ca/social-work/event/526340-a-place-to-connect) | Zoom | Kiipitakyoyis (Grandmother’s Lodge) invites all First Nations, Métis and Inuit students to join us for a time of gathering, connection, support ... |
+| **October 13** | [Systematic Reviews Workshop 2: Developing Your Data Collection Strategy [ONLINE]](https://workrooms.ucalgary.ca/event/4071135) | TBD / Online |  |
+| **October 13** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522748-affordable-market) | Campus Food Hub |  |
+| **October 13** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524712-donuts-and-discussions-peer-support-meeting) | Writing Symbols Lodge - Red Lodge (MSC 392) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
 
 ---
 
