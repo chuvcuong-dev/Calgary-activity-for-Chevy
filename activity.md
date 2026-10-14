@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-13 14:10:07
+> **Last Updated:** 2026-10-14 14:17:37
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 13** | [Empowered Coaching Conversations: Lead Conversations That Build Capacity, Trust &amp; Lasting Change](https://events.ucalgary.ca/social-work/event/517991-empowered-coaching-conversations-lead-conversations-t) | Online (Synchronous) | Develop practical coaching skills to lead more effective conversations that build trust, strengthen relationships, and support meaningful, susta... |
-| **October 13** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 13** | [Department of Medicine Medical Grand Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/526286-department-of-medicine-medical-grand-rounds-hybrid) | Rm. 10331A, RGH | “Primary Biliary Cholangitis: Old Disease, New Directions”   Dr. Laura Stinton |
-| **October 13** | [Research Update Seminar Series](https://events.ucalgary.ca/libin/event/525958-research-update-seminar-series) | HSC 1405A | Join us for the next RUSS session. This session features:      Spencer Fietz, a MSc Graduate Student, supervised by Dr. James White and co-super... |
-| **October 13** | [Admissions Advising Session with UCalgary Law](https://events.ucalgary.ca/law/event/522293-admissions-advising-session-with-ucalgary-law) | TBD / Online | Stop by our online office hours to meet with a member of our Admissions team and ask your questions about applying to law school or about UCalgary ... |
-| **October 13** | [[In-Person] Podcasting 101: Recording and Publishing Your Podcast in the AV Suites](https://workrooms.ucalgary.ca/calendar/lcr-workshops/podcasting) | Digital Media Commons TFDL 340, TFDL |  |
-| **October 13** | [Clearing the Haze Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524044-clearing-the-haze-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Clearing the Haze is a peer-led discussion space focused on exploring relationships with cannabis, nicotine, and vaping. Open to students, staff... |
-| **October 13** | [Eating and Body Image Peer Support Meeting](https://events.ucalgary.ca/live/events/524096-eating-and-body-image-peer-support-meeting) | Women’s Resource Centre Library (MSC 482) | This topic discussion meeting is for students, faculty, staff and alumni in recovery from an eating disorder, disordered eating, and/or curious ... |
-| **October 13** | [A Place to Connect](https://events.ucalgary.ca/social-work/event/526340-a-place-to-connect) | Zoom | Kiipitakyoyis (Grandmother’s Lodge) invites all First Nations, Métis and Inuit students to join us for a time of gathering, connection, support ... |
-| **October 13** | [Systematic Reviews Workshop 2: Developing Your Data Collection Strategy [ONLINE]](https://workrooms.ucalgary.ca/event/4071135) | TBD / Online |  |
-| **October 13** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522748-affordable-market) | Campus Food Hub |  |
-| **October 13** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524712-donuts-and-discussions-peer-support-meeting) | Writing Symbols Lodge - Red Lodge (MSC 392) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
+| **October 14** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523577-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
+| **October 14** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 14** | [Rheumatology Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525484-rheumatology-rounds-hybrid) | Theatre One, HSC, Foothills Campus | “Diagnosis of Axial Spondyloarthritis and Reflections from Fellowship”   Dr. O. Kobza &#160; |
+| **October 14** | [Health Promotion Passport Challenge](https://events.ucalgary.ca/wellness-services/event/524372-health-promotion-passport-challenge) | UCalgary Main Campus | Explore campus, collect stamps for a chance to win prizes, and discover resources that can support your well-being throughout your university jo... |
+| **October 14** | [Azrieli Accelerator Research Exchange 2026](https://events.ucalgary.ca/live/events/522230-azrieli-accelerator-research-exchange-2026) | TBD / Online |  |
+| **October 14** | [REALISE - Navigating the Academic Job Market](https://luma.com/2eo1c8ir) | TBD / Online | A session for postdocs on navigating the academic job market, with practical strategies and insights from faculty who have served on academic ap... |
+| **October 14** | [Brunch and Learn: Managing Your Money (IN-PERSON)](https://events.ucalgary.ca/registrar/event/524920-brunch-and-learn-managing-your-money-in-person) | Life Design Hub - MSC 171 | Money Smart workshop in collaboration with Chartered Professional Accountants (CPA) Canada. How does one save more and spend less? Most of us aren’... |
+| **October 14** | [Fresh Routes Mobile Market](https://events.ucalgary.ca/live/events/504339-fresh-routes-mobile-market) | Health Sciences Centre Mall (Hippocrates Mall) (By stairs to library) | Fresh Routes is a mobile grocery store that brings healthy and affordable vegetables, fruit and eggs right to the Foothills campus.   Weekly on ... |
+| **October 14** | [TOUR – Held. Together.](https://events.ucalgary.ca/live/events/523417-tour-held-together) | Taylor Family Digital Library | Join curator Jenelle M. Pasiechnik for an indepth tour of Nickle Gallerie’s latest exhibition, Held. Together.&#160; |
+| **October 14** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522763-affordable-market) | Campus Food Hub |  |
+| **October 14** | [Exhibition – CrossCraft Pattern Systems](https://events.ucalgary.ca/live/events/523664-exhibition-crosscraft-pattern-systems) | Taylor Family Digital Library - 5th floor, north end | CrossCraft is the result of a research-creation project that explores different textile techniques as systems of repetition, structure and patte... |
+| **October 14** | [Master of Physician Assistant Studies Virtual Info Session](https://events.ucalgary.ca/cumming/event/524460-master-of-physician-assistant-studies-virtual-info) | Online via Zoom | Physician Assistants (PAs) are health care professionals who work with physicians to provide health care. Under the overall supervision of a phy... |
 
 ---
 
