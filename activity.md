@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-14 14:17:37
+> **Last Updated:** 2026-10-15 14:21:28
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 14** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523577-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 14** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
-| **October 14** | [Rheumatology Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525484-rheumatology-rounds-hybrid) | Theatre One, HSC, Foothills Campus | “Diagnosis of Axial Spondyloarthritis and Reflections from Fellowship”   Dr. O. Kobza &#160; |
-| **October 14** | [Health Promotion Passport Challenge](https://events.ucalgary.ca/wellness-services/event/524372-health-promotion-passport-challenge) | UCalgary Main Campus | Explore campus, collect stamps for a chance to win prizes, and discover resources that can support your well-being throughout your university jo... |
-| **October 14** | [Azrieli Accelerator Research Exchange 2026](https://events.ucalgary.ca/live/events/522230-azrieli-accelerator-research-exchange-2026) | TBD / Online |  |
-| **October 14** | [REALISE - Navigating the Academic Job Market](https://luma.com/2eo1c8ir) | TBD / Online | A session for postdocs on navigating the academic job market, with practical strategies and insights from faculty who have served on academic ap... |
-| **October 14** | [Brunch and Learn: Managing Your Money (IN-PERSON)](https://events.ucalgary.ca/registrar/event/524920-brunch-and-learn-managing-your-money-in-person) | Life Design Hub - MSC 171 | Money Smart workshop in collaboration with Chartered Professional Accountants (CPA) Canada. How does one save more and spend less? Most of us aren’... |
-| **October 14** | [Fresh Routes Mobile Market](https://events.ucalgary.ca/live/events/504339-fresh-routes-mobile-market) | Health Sciences Centre Mall (Hippocrates Mall) (By stairs to library) | Fresh Routes is a mobile grocery store that brings healthy and affordable vegetables, fruit and eggs right to the Foothills campus.   Weekly on ... |
-| **October 14** | [TOUR – Held. Together.](https://events.ucalgary.ca/live/events/523417-tour-held-together) | Taylor Family Digital Library | Join curator Jenelle M. Pasiechnik for an indepth tour of Nickle Gallerie’s latest exhibition, Held. Together.&#160; |
-| **October 14** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522763-affordable-market) | Campus Food Hub |  |
-| **October 14** | [Exhibition – CrossCraft Pattern Systems](https://events.ucalgary.ca/live/events/523664-exhibition-crosscraft-pattern-systems) | Taylor Family Digital Library - 5th floor, north end | CrossCraft is the result of a research-creation project that explores different textile techniques as systems of repetition, structure and patte... |
-| **October 14** | [Master of Physician Assistant Studies Virtual Info Session](https://events.ucalgary.ca/cumming/event/524460-master-of-physician-assistant-studies-virtual-info) | Online via Zoom | Physician Assistants (PAs) are health care professionals who work with physicians to provide health care. Under the overall supervision of a phy... |
+| **October 15** | [Alumni Career Workshop: Career Planning](https://events.ucalgary.ca/alumni/event/526476-alumni-career-workshop-career-planning) | Online | Join an alumni career coach for this exclusive career workshop.&#160; |
+| **October 15** | [Territorial Acknowledgement Workshop Series](https://events.ucalgary.ca/live/events/524704-territorial-acknowledgement-workshop-series) | See description (Foothills Campus) | A two-part interactive series on creating your own meaningful territorial land acknowledgement. |
+| **October 15** | [Renal Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525493-renal-rounds-hybrid) | Theatre One, Health Sciences Centre, Foothills Campus | “Nuanced Nephrolithiasis”   Dr. Dave Ward |
+| **October 15** | [CSM TEP - Teaching Excellence Program Track I - Day 4 (In-Person)](https://events.ucalgary.ca/live/events/521703-csm-tep-teaching-excellence-program-track-i-day-4-in-) | Foothills Campus | This comprehensive faculty development program has been designed to support educators at every stage of their teaching careers, from novice to e... |
+| **October 15** | [Canadian Seapower 2026 - “Power Series” Conference](https://events.ucalgary.ca/live/events/523342-canadian-seapower-2026-power-series-conference) | Livestream Available | Join CMSS and CMSN at the next iteration of the “Power Series” - Canadian Seapower 2026, October 15-16 at the University of Calgary.&#160; |
+| **October 15** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525374-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **October 15** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524087-donuts-and-discussions-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
+| **October 15** | [Developmental Biology Seminar Series - Dr. Maria Lehtinen, Harvard University](https://events.ucalgary.ca/bmb/event/523654-developmental-biology-seminar-series-dr-maria-lehtine) | Clara Christie Theatre |  |
+| **October 15** | [USpeak Japanese Conversation Table](https://events.ucalgary.ca/international-student-services/event/525745-uspeak-japanese-conversation-table) | International Student Services (MSC 275) | Looking to practice your Japanese conversation skills in a friendly and informal setting?      The USpeak Japanese Conversation Table is the per... |
+| **October 15** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522778-affordable-market) | Campus Food Hub |  |
+| **October 15** | [Nickle@Noon – Ash Slemming: Creating Beyond Category](https://events.ucalgary.ca/live/events/523411-nicklenoon-ash-slemming-creating-beyond-category) | Nickle Galleries, Taylor Family Digital Library | Through stories from curated exhibitions, freelance projects, artist collaborations, and unexpected opportunities, Ash Slemming explores how curios... |
+| **October 15** | [Step Into Fall - Weekly Walk](https://events.ucalgary.ca/wellness-services/event/526311-step-into-fall-weekly-walk) | TFDL Quad (Pride Stairs) | Join us for a 30-minute walk around campus as we connect with nature and admire the beautiful fall colors! Get ready to meet new people, familia... |
 
 ---
 
