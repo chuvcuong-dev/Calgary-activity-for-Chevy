@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-16 14:19:18
+> **Last Updated:** 2026-10-17 14:11:04
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -52,18 +52,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 16** | [Alumni Career Workshop: Career Planning](https://events.ucalgary.ca/alumni/event/526476-alumni-career-workshop-career-planning) | Online | Join an alumni career coach for this exclusive career workshop.&#160; |
-| **October 16** | [Canadian Seapower 2026 - “Power Series” Conference](https://events.ucalgary.ca/live/events/523342-canadian-seapower-2026-power-series-conference) | Livestream Available | Join CMSS and CMSN at the next iteration of the “Power Series” - Canadian Seapower 2026, October 15-16 at the University of Calgary.&#160; |
-| **October 16** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523578-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 16** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523392-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
-| **October 16** | [BioSci Connect Seminar Series](https://events.ucalgary.ca/live/events/526433-biosci-connect-seminar-series) | BI 211 or through Zoom | Presented by Dr. Joe Harrison, Dept. of Biological Sciences. |
-| **October 16** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522793-affordable-market) | Campus Food Hub |  |
-| **October 16** | [Unwind - Mini Canvas Painting](https://events.ucalgary.ca/live/events/525281-unwind-mini-canvas-painting) | Life Design Hub (MSC 171) | Take a break and unleash your creativity! Paint your own mini canvas, relax with fellow peers, and create a small masterpiece to take home. No e... |
-| **October 16** | [Alumni All-Access: Wired Differently, Working Smarter](https://events.ucalgary.ca/alumni/event/522741-alumni-all-access-wired-differently-working-smarter) | TBD / Online | Join this Alumni All-Access event to learn strategies to reframe AI as a tool for neurodivergent professionals.&#160; |
-| **October 16** | [Water for a Growing Calgary: Security, Infrastructure, and Growth](https://events.ucalgary.ca/live/events/525593-water-for-a-growing-calgary-security) | Online | This event brings together expertise from across the university community to explore how changing water availability, infrastructure needs, and con... |
-| **October 16** | [FATS: Veritas in vanadium: from oceans to ores](https://events.ucalgary.ca/live/events/526426-fats-veritas-in-vanadium-from-oceans-to-ores) | Science Theatres, Room 147 (ST 147) | Presented by Dr. Julie Prytulak, CRC Tier I Professorship at UBC. |
-| **October 16** | [Jummah Prayers with the MSA](https://events.ucalgary.ca/faith-spirituality/event/523898-jummah-prayers-with-the-msa) | Vitruvian Space, DC 12 | Facilitated in partnership with the Muslim Students’ Association |
-| **October 16** | [Heart to Heart](https://events.ucalgary.ca/faith-spirituality/event/523699-heart-to-heart) | Faith and Spirituality Centre (MSC 487) | Exploration and sharing on what it means to be spiritual as we find our way in a material world. Open to all. |
+| **October 17** | [Alumni All-Access: AI, Data Centres and the Impact on Alberta’s Electricity Grid](https://events.ucalgary.ca/alumni/event/522732-alumni-all-access-ai-data-centres-and-the-impact-on-a) | Murray Fraser Hall, UCalgary Main Campus | Join this Alumni All-Access event to learn about how AI-driven data center growth is reshaping the electricity demand in Alberta. |
+| **October 17** | [AI, Data Centres and the Impact on Alberta’s Electricity Grid](https://events.ucalgary.ca/live/events/524914-ai-data-centres-and-the-impact-on-albertas) | Murray Fraser Hall, University of Calgary | Learn about infrastructure, markets, consumer expense, environmental and regulatory challenges that arise from adding more data centres to the p... |
+| **October 17** | [Alumni All Access: AI, Data Centres, and the Impact on Alberta’s Electricity Grid](https://events.ucalgary.ca/law/event/525681-alumni-all-access-ai-data-centres-and-the-impact) | MFH 2370 | At this Saturday Morning at the Law School workshop, you’ll learn about infrastructure, markets, consumer expense, environmental and regulatory ... |
+| **October 19** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523579-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
+| **October 19** | [RIHSE Rounds](https://events.ucalgary.ca/cumming/rihse/event/524646-rihse-rounds-copy) | HSC G382 or via Zoom | Topic: “Flourishing or Folly? Can Flourishing Become the Answer to “Why” for Medical Schools?” Presenter: Dr. Lara Cooke   MD, MSc(Med Ed), FRCPC (... |
+| **October 19** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
+| **October 19** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524141-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
+| **October 19** | [TFDL Foyer: Open Access](https://events.ucalgary.ca/library/event/525905-tfdl-foyer-open-access) | TBD / Online | What are the costs of creating, sharing, and sustaining knowledge, and who benefits?      We’re looking at the financial, human and environmenta... |
+| **October 19** | [The 2026 Gairdner Laureate Lectures](https://events.ucalgary.ca/cumming/event/525087-the-2026-gairdner-laureate-lectures) | Libin Lecture Theatre, Foothills Campus | Join the Cumming School of Medicine for the 2026 Gairdner Laureate Lectures featuring Dr. Bahaa Abu-Raya, MD, PhD, recipient of a 2026 Gairdner ... |
+| **October 19** | [Alumni All-Access: What’s Coming This Cold and Flu Season?](https://events.ucalgary.ca/alumni/event/523219-alumni-all-access-whats-coming-this-cold-and-flu-seas) | TBD / Online | Get a head start in preparing for this year’s cold and flu season at this Alumni All-Access webinar.&#160; |
+| **October 19** | [Health System Resources for Research Purposes Lunch and Learn](https://events.ucalgary.ca/research/cccr/event/526295-health-system-resources-for-research-purposes) | Zoom | Join us for the Calgary Centre for Clinical Research’s (CCCR) Lunch &amp; Learn. Chantelle Carbonell, Health System Access Advisor at Acute Care Al... |
+| **October 19** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523873-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
 
 ---
 
