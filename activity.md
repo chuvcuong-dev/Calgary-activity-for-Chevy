@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-17 14:11:04
+> **Last Updated:** 2026-10-18 14:11:03
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -52,9 +52,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 17** | [Alumni All-Access: AI, Data Centres and the Impact on Alberta’s Electricity Grid](https://events.ucalgary.ca/alumni/event/522732-alumni-all-access-ai-data-centres-and-the-impact-on-a) | Murray Fraser Hall, UCalgary Main Campus | Join this Alumni All-Access event to learn about how AI-driven data center growth is reshaping the electricity demand in Alberta. |
-| **October 17** | [AI, Data Centres and the Impact on Alberta’s Electricity Grid](https://events.ucalgary.ca/live/events/524914-ai-data-centres-and-the-impact-on-albertas) | Murray Fraser Hall, University of Calgary | Learn about infrastructure, markets, consumer expense, environmental and regulatory challenges that arise from adding more data centres to the p... |
-| **October 17** | [Alumni All Access: AI, Data Centres, and the Impact on Alberta’s Electricity Grid](https://events.ucalgary.ca/law/event/525681-alumni-all-access-ai-data-centres-and-the-impact) | MFH 2370 | At this Saturday Morning at the Law School workshop, you’ll learn about infrastructure, markets, consumer expense, environmental and regulatory ... |
 | **October 19** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523579-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
 | **October 19** | [RIHSE Rounds](https://events.ucalgary.ca/cumming/rihse/event/524646-rihse-rounds-copy) | HSC G382 or via Zoom | Topic: “Flourishing or Folly? Can Flourishing Become the Answer to “Why” for Medical Schools?” Presenter: Dr. Lara Cooke   MD, MSc(Med Ed), FRCPC (... |
 | **October 19** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
@@ -64,6 +61,9 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **October 19** | [Alumni All-Access: What’s Coming This Cold and Flu Season?](https://events.ucalgary.ca/alumni/event/523219-alumni-all-access-whats-coming-this-cold-and-flu-seas) | TBD / Online | Get a head start in preparing for this year’s cold and flu season at this Alumni All-Access webinar.&#160; |
 | **October 19** | [Health System Resources for Research Purposes Lunch and Learn](https://events.ucalgary.ca/research/cccr/event/526295-health-system-resources-for-research-purposes) | Zoom | Join us for the Calgary Centre for Clinical Research’s (CCCR) Lunch &amp; Learn. Chantelle Carbonell, Health System Access Advisor at Acute Care Al... |
 | **October 19** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523873-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
+| **October 19** | [TOUR – Indigenous Art in the TFDL](https://events.ucalgary.ca/nickle-galleries/event/523271-tour-indigenous-art-in-the-tfdl) | Taylor Family Digital Library | Join Kaia MacLeod for an intimate tour of Library and Cultural Resources collection of Treaty 7 art works. |
+| **October 19** | [USpeak Vietnamese Conversation Table](https://events.ucalgary.ca/international-student-services/event/525746-uspeak-vietnamese-conversation-table) | International Student Services (MSC 275) | Looking to practice your Vietnamese conversation skills in a friendly and informal setting?      The USpeak Vietnamese Conversation Table is the... |
+| **October 19** | [LCI Visiting Speaker: Label-free nonlinear microscopy and fluorescence lifetime imaging for understanding the ultrastructure of biological tissues](https://events.ucalgary.ca/snyder/event/261019-baltrusch) | HSC 1500 |  |
 
 ---
 
