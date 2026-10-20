@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-19 14:26:31
+> **Last Updated:** 2026-10-20 14:21:28
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -14,6 +14,7 @@
 | :--- | :--- | :--- | :--- |
 | **2026-10-22** | Department Activity | **BSA 'Meet the Biology Professors' Research Night** | Faculty members present ongoing research in ecology, genetics, and cellular biology. Key for finding summer supervisors! |
 | **2026-11-08 to 2026-11-14** | Academic Milestone | **Fall Term Break (Reading Week)** | Fall break. Ideal time to catch up on lab write-ups and study for second midterms. |
+| **2026-11-19** | Undergraduate Research | **UREX Summer Research Awards Info Session (Faculty of Science)** | Workshop on finding a supervisor and drafting research proposals for the ,500 summer research award (open to international students). |
 
 ---
 
@@ -52,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 19** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523579-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 19** | [RIHSE Rounds](https://events.ucalgary.ca/cumming/rihse/event/524646-rihse-rounds-copy) | HSC G382 or via Zoom | Topic: “Flourishing or Folly? Can Flourishing Become the Answer to “Why” for Medical Schools?” Presenter: Dr. Lara Cooke   MD, MSc(Med Ed), FRCPC (... |
-| **October 19** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
-| **October 19** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524141-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
-| **October 19** | [TFDL Foyer: Open Access](https://events.ucalgary.ca/library/event/525905-tfdl-foyer-open-access) | TBD / Online | What are the costs of creating, sharing, and sustaining knowledge, and who benefits?      We’re looking at the financial, human and environmenta... |
-| **October 19** | [The 2026 Gairdner Laureate Lectures](https://events.ucalgary.ca/cumming/event/525087-the-2026-gairdner-laureate-lectures) | Libin Lecture Theatre, Foothills Campus | Join the Cumming School of Medicine for the 2026 Gairdner Laureate Lectures featuring Dr. Bahaa Abu-Raya, MD, PhD, recipient of a 2026 Gairdner ... |
-| **October 19** | [Alumni All-Access: What’s Coming This Cold and Flu Season?](https://events.ucalgary.ca/alumni/event/523219-alumni-all-access-whats-coming-this-cold-and-flu-seas) | TBD / Online | Get a head start in preparing for this year’s cold and flu season at this Alumni All-Access webinar.&#160; |
-| **October 19** | [Health System Resources for Research Purposes Lunch and Learn](https://events.ucalgary.ca/research/cccr/event/526295-health-system-resources-for-research-purposes) | Zoom | Join us for the Calgary Centre for Clinical Research’s (CCCR) Lunch &amp; Learn. Chantelle Carbonell, Health System Access Advisor at Acute Care Al... |
-| **October 19** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523873-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
-| **October 19** | [TOUR – Indigenous Art in the TFDL](https://events.ucalgary.ca/nickle-galleries/event/523271-tour-indigenous-art-in-the-tfdl) | Taylor Family Digital Library | Join Kaia MacLeod for an intimate tour of Library and Cultural Resources collection of Treaty 7 art works. |
-| **October 19** | [USpeak Vietnamese Conversation Table](https://events.ucalgary.ca/international-student-services/event/525746-uspeak-vietnamese-conversation-table) | International Student Services (MSC 275) | Looking to practice your Vietnamese conversation skills in a friendly and informal setting?      The USpeak Vietnamese Conversation Table is the... |
-| **October 19** | [LCI Visiting Speaker: Label-free nonlinear microscopy and fluorescence lifetime imaging for understanding the ultrastructure of biological tissues](https://events.ucalgary.ca/snyder/event/261019-baltrusch) | HSC 1500 |  |
+| **October 20** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
+| **October 20** | [Department of Medicine Medical Grand Rounds](https://events.ucalgary.ca/cumming/medicine/event/526448-department-of-medicine-medical-grand-rounds) | Zoom Presentation | “Transformative Cellular Therapies for Sickle Cell Disease”   Dr. Kareem Jamani |
+| **October 20** | [Cardiovascular Journal Club](https://events.ucalgary.ca/libin/event/524944-cardiovascular-journal-club) | HSC 1405A | Join us for Cardiovascular Journal Club. This session features:&#160;                  Theresa Nguyen (an MSc Graduate Student) &amp; Maryam M. ... |
+| **October 20** | [Admissions Advising Session with UCalgary Law](https://events.ucalgary.ca/law/event/522294-admissions-advising-session-with-ucalgary-law) | TBD / Online | Stop by our online office hours to meet with a member of our Admissions team and ask your questions about applying to law school or about UCalgary ... |
+| **October 20** | [Getting Unstuck (30 Minute Activity)](https://events.ucalgary.ca/live/events/522039-getting-unstuck-30-minute-activity) | Life Design Hub, MSC171 | Do you currently feel stuck and unsure in life? Join us for a guided session on how to find and value energy, so that we can use design thinking... |
+| **October 20** | [Ask an Advisor: Study Permit Extension (group advising session)](https://events.ucalgary.ca/international-student-services/event/524517-ask-an-advisor-study-permit-extension-group-advising-) | International Student Services (MSC 275) | This group session provides an opportunity for students to raise questions related to required documents, timelines, and common application cons... |
+| **October 20** | [Clearing the Haze Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524045-clearing-the-haze-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Clearing the Haze is a peer-led discussion space focused on exploring relationships with cannabis, nicotine, and vaping. Open to students, staff... |
+| **October 20** | [Eating and Body Image Peer Support Meeting](https://events.ucalgary.ca/live/events/524097-eating-and-body-image-peer-support-meeting) | Women’s Resource Centre Library (MSC 482) | This topic discussion meeting is for students, faculty, staff and alumni in recovery from an eating disorder, disordered eating, and/or curious ... |
+| **October 20** | [Systematic Reviews Workshop 3: The Next Steps: translating, tracking, reporting and study selection [ONLINE]](https://workrooms.ucalgary.ca/event/4071132) | TBD / Online |  |
+| **October 20** | [Elders on Campus with Evelyn Good Striker](https://events.ucalgary.ca/nursing/event/525262-elders-on-campus-with-evelyn-good-striker) | PF 1239 (Professional Faculties Building) | Gather in a warm, welcoming space |
+| **October 20** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522749-affordable-market) | Campus Food Hub |  |
+| **October 20** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524713-donuts-and-discussions-peer-support-meeting) | Writing Symbols Lodge - Red Lodge (MSC 392) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
 
 ---
 
