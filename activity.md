@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-20 14:21:28
+> **Last Updated:** 2026-10-21 18:17:43
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 20** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
-| **October 20** | [Department of Medicine Medical Grand Rounds](https://events.ucalgary.ca/cumming/medicine/event/526448-department-of-medicine-medical-grand-rounds) | Zoom Presentation | “Transformative Cellular Therapies for Sickle Cell Disease”   Dr. Kareem Jamani |
-| **October 20** | [Cardiovascular Journal Club](https://events.ucalgary.ca/libin/event/524944-cardiovascular-journal-club) | HSC 1405A | Join us for Cardiovascular Journal Club. This session features:&#160;                  Theresa Nguyen (an MSc Graduate Student) &amp; Maryam M. ... |
-| **October 20** | [Admissions Advising Session with UCalgary Law](https://events.ucalgary.ca/law/event/522294-admissions-advising-session-with-ucalgary-law) | TBD / Online | Stop by our online office hours to meet with a member of our Admissions team and ask your questions about applying to law school or about UCalgary ... |
-| **October 20** | [Getting Unstuck (30 Minute Activity)](https://events.ucalgary.ca/live/events/522039-getting-unstuck-30-minute-activity) | Life Design Hub, MSC171 | Do you currently feel stuck and unsure in life? Join us for a guided session on how to find and value energy, so that we can use design thinking... |
-| **October 20** | [Ask an Advisor: Study Permit Extension (group advising session)](https://events.ucalgary.ca/international-student-services/event/524517-ask-an-advisor-study-permit-extension-group-advising-) | International Student Services (MSC 275) | This group session provides an opportunity for students to raise questions related to required documents, timelines, and common application cons... |
-| **October 20** | [Clearing the Haze Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524045-clearing-the-haze-peer-support-meeting) | Schulich School of Engineering, Wellness Room (ENA 06) | Clearing the Haze is a peer-led discussion space focused on exploring relationships with cannabis, nicotine, and vaping. Open to students, staff... |
-| **October 20** | [Eating and Body Image Peer Support Meeting](https://events.ucalgary.ca/live/events/524097-eating-and-body-image-peer-support-meeting) | Women’s Resource Centre Library (MSC 482) | This topic discussion meeting is for students, faculty, staff and alumni in recovery from an eating disorder, disordered eating, and/or curious ... |
-| **October 20** | [Systematic Reviews Workshop 3: The Next Steps: translating, tracking, reporting and study selection [ONLINE]](https://workrooms.ucalgary.ca/event/4071132) | TBD / Online |  |
-| **October 20** | [Elders on Campus with Evelyn Good Striker](https://events.ucalgary.ca/nursing/event/525262-elders-on-campus-with-evelyn-good-striker) | PF 1239 (Professional Faculties Building) | Gather in a warm, welcoming space |
-| **October 20** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522749-affordable-market) | Campus Food Hub |  |
-| **October 20** | [Donuts and Discussions Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524713-donuts-and-discussions-peer-support-meeting) | Writing Symbols Lodge - Red Lodge (MSC 392) | Join the UCRC for an open-ended discussion about addiction and recovery. Open to anyone in recovery, seeking recovery, or exploring their relati... |
+| **October 21** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523580-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
+| **October 21** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
+| **October 21** | [Spin the Wheel of Academic Integrity](https://events.ucalgary.ca/library/event/525906-spin-the-wheel-of-academic-integrity) | TBD / Online | We’re highlighting the importance of authentic work, ethical decision-making and contributing positively to the UCalgary academic community.    ... |
+| **October 21** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522764-affordable-market) | Campus Food Hub |  |
+| **October 21** | [First-Gen Roundtable - Mount Degree: Choose Your Route to Graduation](https://events.ucalgary.ca/live/events/525919-first-gen-roundtable-mount-degree-choose-your-route-t) | TFDL 364 | Are you unsure about how your degree can lead to your goals?    This session supports you with learning about how you can personalize your unive... |
+| **October 21** | [Sleep &amp; Respiration Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525292-sleep-respiration-rounds-hybrid) | W21C Multipurpose Room | “Hypoxia in OSA: Missed Opportunities and Things We Still Don’t Get Right”   Dr. Omar Mesarwi |
+| **October 21** | [Women &amp; Gender Diverse Support Group for Students with ADHD](https://events.ucalgary.ca/live/events/524019-women-gender-diverse-support-group-for) | Women’s Resource Centre Library (MSC 482) | Are you a student with ADHD? Are you looking to build community while gaining knowledge and tools for ADHD? If yes, this group may be for you! |
+| **October 21** | [Meeting People Where They Are: Building Accessible and Responsive Supports for Children, Youth, Adults, and Families](https://events.ucalgary.ca/nursing/event/527918-meeting-people-where-they-are-building-accessible) | TBD / Online | Join us on Wednesday, October 21st, as the AVA Webinar Series presents Meeting People Where They Are: Building Accessible and Responsive Support... |
+| **October 21** | [LadleUP!](https://events.ucalgary.ca/career-personal-development/event/522854-ladleup) | Campus Food Hub |  |
+| **October 21** | [Unwind Your Mind Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524161-unwind-your-mind-peer-support-meeting) | Unit 5, 3500 24 Ave NW, Calgary, AB | Join a supportive community of students and staff dedicated to exploring recovery through mindfulness and self-reflection. Grounded in Buddhist-... |
+| **October 21** | [Info session: SAPL Summer Programs](https://events.ucalgary.ca/osle/event/523717-info-session-sapl-summer-programs) | UCDC1 1305 (Downtown Campus) | Learn about the 2027 SAPL Spring/Summer Global Classrooms in Tokyo, Barcelona or Zurich. |
+| **October 21** | [Arts Career and Co-op Advising Drop-In](https://events.ucalgary.ca/arts/arts-co-op/event/523836-arts-career-and-co-op-advising-drop-in) | SS820/822 | Have questions about your career path, job search, resume, networking, or the Arts Co-op program? Stop by our drop-in advising sessions and chat... |
 
 ---
 
