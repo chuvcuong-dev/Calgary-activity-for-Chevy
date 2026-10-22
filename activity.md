@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-21 18:17:43
+> **Last Updated:** 2026-10-22 18:11:50
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 21** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523580-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 21** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
-| **October 21** | [Spin the Wheel of Academic Integrity](https://events.ucalgary.ca/library/event/525906-spin-the-wheel-of-academic-integrity) | TBD / Online | We’re highlighting the importance of authentic work, ethical decision-making and contributing positively to the UCalgary academic community.    ... |
-| **October 21** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522764-affordable-market) | Campus Food Hub |  |
-| **October 21** | [First-Gen Roundtable - Mount Degree: Choose Your Route to Graduation](https://events.ucalgary.ca/live/events/525919-first-gen-roundtable-mount-degree-choose-your-route-t) | TFDL 364 | Are you unsure about how your degree can lead to your goals?    This session supports you with learning about how you can personalize your unive... |
-| **October 21** | [Sleep &amp; Respiration Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/525292-sleep-respiration-rounds-hybrid) | W21C Multipurpose Room | “Hypoxia in OSA: Missed Opportunities and Things We Still Don’t Get Right”   Dr. Omar Mesarwi |
-| **October 21** | [Women &amp; Gender Diverse Support Group for Students with ADHD](https://events.ucalgary.ca/live/events/524019-women-gender-diverse-support-group-for) | Women’s Resource Centre Library (MSC 482) | Are you a student with ADHD? Are you looking to build community while gaining knowledge and tools for ADHD? If yes, this group may be for you! |
-| **October 21** | [Meeting People Where They Are: Building Accessible and Responsive Supports for Children, Youth, Adults, and Families](https://events.ucalgary.ca/nursing/event/527918-meeting-people-where-they-are-building-accessible) | TBD / Online | Join us on Wednesday, October 21st, as the AVA Webinar Series presents Meeting People Where They Are: Building Accessible and Responsive Support... |
-| **October 21** | [LadleUP!](https://events.ucalgary.ca/career-personal-development/event/522854-ladleup) | Campus Food Hub |  |
-| **October 21** | [Unwind Your Mind Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524161-unwind-your-mind-peer-support-meeting) | Unit 5, 3500 24 Ave NW, Calgary, AB | Join a supportive community of students and staff dedicated to exploring recovery through mindfulness and self-reflection. Grounded in Buddhist-... |
-| **October 21** | [Info session: SAPL Summer Programs](https://events.ucalgary.ca/osle/event/523717-info-session-sapl-summer-programs) | UCDC1 1305 (Downtown Campus) | Learn about the 2027 SAPL Spring/Summer Global Classrooms in Tokyo, Barcelona or Zurich. |
-| **October 21** | [Arts Career and Co-op Advising Drop-In](https://events.ucalgary.ca/arts/arts-co-op/event/523836-arts-career-and-co-op-advising-drop-in) | SS820/822 | Have questions about your career path, job search, resume, networking, or the Arts Co-op program? Stop by our drop-in advising sessions and chat... |
+| **October 22** | [Learning Spaces and Digital Pedagogies](https://events.ucalgary.ca/taylor-institute/event/522240-learning-spaces-and-digital-pedagogies) | TBD / Online | Learning Spaces and Digital Pedagogies (LSDP) focuses on the integration of learning technology across the variety of learning spaces in higher ... |
+| **October 22** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
+| **October 22** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **October 22** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525375-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
+| **October 22** | [Cybersecurity Booth](https://events.ucalgary.ca/it/event/525714-cybersecurity-booth) | MacEwan Hall | Visit UCalgary’s Cybersecurity Booth in MacEwan Hall to learn practical tips for staying safe online. Meet members of the cybersecurity team, ask q... |
+| **October 22** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522779-affordable-market) | Campus Food Hub |  |
+| **October 22** | [[ONLINE] How to Publish Open Access without Breaking the Bank](https://workrooms.ucalgary.ca/event/4080530) | TBD / Online |  |
+| **October 22** | [CV Strategies for Industry Roles: Translate Your Experience for Employers](https://events.ucalgary.ca/live/events/522632-cv-strategies-for-industry-roles-translate-your) | Life Design Hub (MSC 171) | Learn when an industry CV is appropriate and how to adapt your academic experience for careers beyond academia. |
+| **October 22** | [Hematology Rounds](https://events.ucalgary.ca/cumming/medicine/event/525300-hematology-rounds) | Zoom Presentation | “CTCL”   Dr. Gizelle Popradi |
+| **October 22** | [USpeak English Conversation Table](https://events.ucalgary.ca/international-student-services/event/525698-uspeak-english-conversation-table) | International Student Services (MSC 275) | Looking to practice your English conversation skills in a friendly and informal setting?      The USpeak English Conversation Table is the perfe... |
+| **October 22** | [Building Resilience for Balance and Wellness (in Academia)](https://events.ucalgary.ca/obrien/event/526233-building-resilience-for-balance-and-wellness-in) | CHS/O’Brien Institute Seminar Series | CHS/O’Brien Institute Seminar Series&#160; |
+| **October 22** | [Infectious Diseases Rounds](https://events.ucalgary.ca/cumming/medicine/event/527553-infectious-diseases-rounds) | Zoom Presentation | “Wastewater Surveillance gets Personal: Stories from Hospitals, Shelters, and Beyond”   Dr. Mike Parkins |
 
 ---
 
