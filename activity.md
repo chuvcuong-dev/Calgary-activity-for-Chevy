@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-22 18:11:50
+> **Last Updated:** 2026-10-23 18:00:21
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -12,7 +12,6 @@
 
 | Date | Category | Activity / Milestone | Details & Action |
 | :--- | :--- | :--- | :--- |
-| **2026-10-22** | Department Activity | **BSA 'Meet the Biology Professors' Research Night** | Faculty members present ongoing research in ecology, genetics, and cellular biology. Key for finding summer supervisors! |
 | **2026-11-08 to 2026-11-14** | Academic Milestone | **Fall Term Break (Reading Week)** | Fall break. Ideal time to catch up on lab write-ups and study for second midterms. |
 | **2026-11-19** | Undergraduate Research | **UREX Summer Research Awards Info Session (Faculty of Science)** | Workshop on finding a supervisor and drafting research proposals for the ,500 summer research award (open to international students). |
 
@@ -53,18 +52,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 22** | [Learning Spaces and Digital Pedagogies](https://events.ucalgary.ca/taylor-institute/event/522240-learning-spaces-and-digital-pedagogies) | TBD / Online | Learning Spaces and Digital Pedagogies (LSDP) focuses on the integration of learning technology across the variety of learning spaces in higher ... |
-| **October 22** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
-| **October 22** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 22** | [Ask a Neurodivergent Student Drop-in](https://events.ucalgary.ca/live/events/525375-ask-a-neurodivergent-student-drop-in) | SSC TFDL 355D | Created by students for students, designed to offer personalized, non-judgmental support tailored to your learning needs. Offers practical tips,... |
-| **October 22** | [Cybersecurity Booth](https://events.ucalgary.ca/it/event/525714-cybersecurity-booth) | MacEwan Hall | Visit UCalgary’s Cybersecurity Booth in MacEwan Hall to learn practical tips for staying safe online. Meet members of the cybersecurity team, ask q... |
-| **October 22** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522779-affordable-market) | Campus Food Hub |  |
-| **October 22** | [[ONLINE] How to Publish Open Access without Breaking the Bank](https://workrooms.ucalgary.ca/event/4080530) | TBD / Online |  |
-| **October 22** | [CV Strategies for Industry Roles: Translate Your Experience for Employers](https://events.ucalgary.ca/live/events/522632-cv-strategies-for-industry-roles-translate-your) | Life Design Hub (MSC 171) | Learn when an industry CV is appropriate and how to adapt your academic experience for careers beyond academia. |
-| **October 22** | [Hematology Rounds](https://events.ucalgary.ca/cumming/medicine/event/525300-hematology-rounds) | Zoom Presentation | “CTCL”   Dr. Gizelle Popradi |
-| **October 22** | [USpeak English Conversation Table](https://events.ucalgary.ca/international-student-services/event/525698-uspeak-english-conversation-table) | International Student Services (MSC 275) | Looking to practice your English conversation skills in a friendly and informal setting?      The USpeak English Conversation Table is the perfe... |
-| **October 22** | [Building Resilience for Balance and Wellness (in Academia)](https://events.ucalgary.ca/obrien/event/526233-building-resilience-for-balance-and-wellness-in) | CHS/O’Brien Institute Seminar Series | CHS/O’Brien Institute Seminar Series&#160; |
-| **October 22** | [Infectious Diseases Rounds](https://events.ucalgary.ca/cumming/medicine/event/527553-infectious-diseases-rounds) | Zoom Presentation | “Wastewater Surveillance gets Personal: Stories from Hospitals, Shelters, and Beyond”   Dr. Mike Parkins |
+| **October 23** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **October 23** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523581-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
+| **October 23** | [UCalgary flu shot clinic - Main campus](https://ucalgary.ca/flu) | MacEwan Student Centre | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
+| **October 23** | [Securing Critical Infrastructure: A Live QKD Demonstration](https://events.ucalgary.ca/research/event/525120-securing-critical-infrastructure-a-live-qkd) | Wave Tech Centre | Join us Oct 23 at Wave Tech Centre for a live demo of Quantum Key Distribution running on Calgary’s dark fibre network — hear from the City of C... |
+| **October 23** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523393-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
+| **October 23** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522794-affordable-market) | Campus Food Hub |  |
+| **October 23** | [HBI Seminar Series - Dr. Yulong Li](https://events.ucalgary.ca/hbi/event/522829-hbi-seminar-series-dr-yulong-li) | TBD / Online |  |
+| **October 23** | [USpeak French Conversation Table](https://events.ucalgary.ca/international-student-services/event/525727-uspeak-french-conversation-table) | International Student Services (MSC 275) | Looking to practice your French conversation skills in a friendly and informal setting?      The USpeak French Conversation Table is the perfect... |
+| **October 23** | [FATS: Regional Tectonism, Not Global Events, Controlled the Devonian–Carboniferous Boundary in North America](https://events.ucalgary.ca/earth-energy-environment/event/527958-fats-regional-tectonism-not-global-events-controlled-) | Science Theatres, Room 147 (ST 147) | Presented by Dr. Makram Hedhli,&#160; research scientist at the Geological Survey of Canada. |
+| **October 23** | [Preparing for Your First Professional Role](https://events.ucalgary.ca/career-personal-development/event/527670-preparing-for-your-first-professional-role) | Online | Build your confidence for the transition from university to work. Learn the key career readiness competencies employers value and discover practica... |
+| **October 23** | [Jummah Prayers with the MSA](https://events.ucalgary.ca/faith-spirituality/event/523899-jummah-prayers-with-the-msa) | Vitruvian Space, DC 12 | Facilitated in partnership with the Muslim Students’ Association |
+| **October 23** | [UCalgary’s Digital Futures Institute Town Hall (Foothills Campus)](https://events.ucalgary.ca/live/events/525992-ucalgarys-digital-futures-institute-town-hall) | Theatre 4, Health Sciences Centre, Foothills Campus | Join us for this in-person town hall to hear an update about the Institute from the three co-leads working on the initiative. |
 
 ---
 
