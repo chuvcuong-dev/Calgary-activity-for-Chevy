@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-24 17:04:06
+> **Last Updated:** 2026-10-25 17:18:06
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -52,8 +52,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 24** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 24** | [&#127875;&#128123; Frozen Frights — Halloween on Ice �&#129415;](https://events.ucalgary.ca/oval/event/523776-127875128123-frozen-frights-halloween-on-ice) | Olympic Oval | Get ready for a spook-tacular afternoon on The Spookiest Ice in the World!™ Dress up the family, lace up your skates and join us at the Olympic ... |
 | **October 25** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **October 25** | [IEEE Canada Electrical Power and Energy Conference (EPEC 2026)](https://attend.ieee.org/epec-2026/) | Banff Centre for Arts and Creativity | The 2026 IEEE Electrical Power and Energy Conference (EPEC 2026) will focus on the role of smart energy technologies in moving towards a sustain... |
 | **October 25** | [Alumni All-Access: LEGO Challenge](https://events.ucalgary.ca/alumni/event/522825-alumni-all-access-lego-challenge) | Red and White Club | Join this Alumni All-Access event to build and connect, all while receiving a discount on a take-home LEGO set! |
@@ -64,6 +62,8 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **October 26** | [UFlourish at Schulich](https://events.ucalgary.ca/schulich/event/524337-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
 | **October 26** | [UFlourish at Schulich](https://events.ucalgary.ca/mental-health-strategy/event/524447-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
 | **October 26** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524142-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
+| **October 26** | [E-Gré Winner’s Tour](https://events.ucalgary.ca/live/events/520342-e-gre-winners-tour) | Eckhardt-Gramatté Hall, Rozsa Centre | 2026 marks the 49th Eckhardt-Gramatté National Music Competition (E-Gré), this year in Voice with this concert featuring Aemilia Moser, the rece... |
+| **October 26** | [Strengthening our Commitment as Settler Social Workers to Address Anti-Indigenous Racism and Deepen our Efforts in Reconciliatory Social Work](https://events.ucalgary.ca/live/events/528155-strengthening-our-commitment-as-settler-social) | Zoom (sent by email after registration) | In partnership with the Kiipitakyoyis Grandmother’s Lodge, Dr. Liza Lorenzetti invites social work students, staff, and practitioners to share t... |
 
 ---
 
