@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-26 19:37:33
+> **Last Updated:** 2026-10-27 19:02:11
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -14,6 +14,7 @@
 | :--- | :--- | :--- | :--- |
 | **2026-11-08 to 2026-11-14** | Academic Milestone | **Fall Term Break (Reading Week)** | Fall break. Ideal time to catch up on lab write-ups and study for second midterms. |
 | **2026-11-19** | Undergraduate Research | **UREX Summer Research Awards Info Session (Faculty of Science)** | Workshop on finding a supervisor and drafting research proposals for the ,500 summer research award (open to international students). |
+| **2026-11-26** | Department Activity | **BSA BIO 241 Midterm 2 Prep & Mock Practical** | Review session focused on genetics, cell division, and microscope practical skills. |
 
 ---
 
@@ -52,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 26** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 26** | [IEEE Canada Electrical Power and Energy Conference (EPEC 2026)](https://attend.ieee.org/epec-2026/) | Banff Centre for Arts and Creativity | The 2026 IEEE Electrical Power and Energy Conference (EPEC 2026) will focus on the role of smart energy technologies in moving towards a sustain... |
-| **October 26** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523582-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 26** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
-| **October 26** | [UFlourish at Schulich](https://events.ucalgary.ca/schulich/event/524337-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
-| **October 26** | [UFlourish at Schulich](https://events.ucalgary.ca/mental-health-strategy/event/524447-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
-| **October 26** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/live/events/525605-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
-| **October 26** | [BRAIN BREAKS - Painting](https://events.ucalgary.ca/live/events/524565-brain-breaks) | Sensory-Friendly Lounge (MSC 450) | Feeling overwhelmed?   The Neurodiversity Support Office welcomes all UCalgary students to pause from the grind of university life and take a BR... |
-| **October 26** | [USpeak English Conversation Table](https://events.ucalgary.ca/international-student-services/event/525699-uspeak-english-conversation-table) | International Student Services (MSC 275) | Looking to practice your English conversation skills in a friendly and informal setting?      The USpeak English Conversation Table is the perfe... |
-| **October 26** | [Wellbriety Peer Support Meeting (copy)](https://events.ucalgary.ca/recovery-community/event/528058-wellbriety-peer-support-meeting-copy) | Unit 5, 3500 24 Ave NW, Calgary, AB | Wellbriety is a transformative recovery movement that integrates Native American cultural wisdom with contemporary sobriety practices, like the ... |
 | **October 27** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
 | **October 27** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **October 27** | [IEEE Canada Electrical Power and Energy Conference (EPEC 2026)](https://attend.ieee.org/epec-2026/) | Banff Centre for Arts and Creativity | The 2026 IEEE Electrical Power and Energy Conference (EPEC 2026) will focus on the role of smart energy technologies in moving towards a sustain... |
+| **October 27** | [UFlourish at Schulich](https://events.ucalgary.ca/schulich/event/524337-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
+| **October 27** | [UFlourish at Schulich](https://events.ucalgary.ca/mental-health-strategy/event/524447-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
+| **October 27** | [UCalgary flu shot clinic - Spy Hill campus](https://ucalgary.ca/flu) | Veterinary Learning Commons 219 | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
+| **October 27** | [UFlourish Fair](https://events.ucalgary.ca/live/events/525312-uflourish-fair) | MacEwan Student Centre - North &amp; South Courtyards | Join us for the UFlourish Fair to explore a variety of campus resources that support your well-being and participate in fun, wellness-focused ac... |
+| **October 27** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522750-affordable-market) | Campus Food Hub |  |
+| **October 27** | [Fold, Cut, Create: Intro to Zine Making](https://events.ucalgary.ca/office-of-institutional-commitments/event/525588-fold-cut-create-intro-to-zine-making) | LabNEXT (TFDL Library, 3rd floor) | Come explore the creative world of zines! In this in person, hands-on workshop, you’ll learn the history of zine-making in connection to social ... |
+| **October 27** | [Black Student Equitable Admissions Process Information Session](https://events.ucalgary.ca/live/events/525723-black-student-equitable-admissions-process) | TBD / Online | Join us to learn more about the Black Student Equitable Admissions Process and ask your burning questions about UCalgary Law! |
+| **October 27** | [UFlourish Fair: Tote Bag Decorating](https://events.ucalgary.ca/wellness-services/event/526366-uflourish-fair-tote-bag-decorating) | MacEwan Student Centre - South Courtyard OR Sensory-Friendly Lounge (MSC 450) | Get creative and personalize your own tote bag at the UFlourish Fair with the Health Promotion &amp; Outreach Team! This hands-on activity is a ... |
+| **October 27** | [UFlourish mini-Tipi Building](https://events.ucalgary.ca/live/events/528517-uflourish-mini-tipi-building) | MacEwan Student Centre, Main Campus University of Calgary |  |
 
 ---
 
