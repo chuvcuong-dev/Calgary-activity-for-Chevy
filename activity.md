@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-28 19:10:51
+> **Last Updated:** 2026-10-29 19:19:18
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 28** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
-| **October 28** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 28** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523583-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
-| **October 28** | [UFlourish at Schulich](https://events.ucalgary.ca/schulich/event/524337-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
-| **October 28** | [UFlourish at Schulich](https://events.ucalgary.ca/mental-health-strategy/event/524447-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
-| **October 28** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522765-affordable-market) | Campus Food Hub |  |
-| **October 28** | [Spot the Fake: Misinformation and Disinformation](https://events.ucalgary.ca/live/events/527488-spot-the-fake-misinformation-and-disinformation) | Taylor Family Digital Library 410 university court nw t2n 1n4 | It’s Digital Citizen Week and we’re talking about Misinformation and Disinformation.   What is it?   What does it do?   How can you verify onlin... |
-| **October 28** | [Women &amp; Gender Diverse Support Group for Students with ADHD](https://events.ucalgary.ca/live/events/524020-women-gender-diverse-support-group-for) | Women’s Resource Centre Library (MSC 482) | Are you a student with ADHD? Are you looking to build community while gaining knowledge and tools for ADHD? If yes, this group may be for you! |
-| **October 28** | [The Indigo Project: Hearing Older LGBTQ2SA+ Voices on Elder Abuse](https://events.ucalgary.ca/nursing/event/528526-the-indigo-project-hearing-older-lgbtq2sa-voices) | TBD / Online | Join us on Wednesday, October 28th, as the AVA Webinar Series presents The Indigo Project: Hearing Older LGBTQ2SA+ Voices on Elder Abuse, featur... |
-| **October 28** | [LadleUP!](https://events.ucalgary.ca/career-personal-development/event/522855-ladleup) | Campus Food Hub |  |
-| **October 28** | [Grad School &amp; Scholarship Application Work Session](https://events.ucalgary.ca/student-success-centre/event/527907-grad-school-scholarship-application-work) | TFDL 364 (SSC Lecture Space) | Grad School &amp; Scholarship Application Work Session |
-| **October 28** | [Grandmother Tea Ceremony with Elder Kerrie Moore](https://events.ucalgary.ca/live/events/524572-grandmother-tea-ceremony-with-elder-kerrie-moore) | Kiipitakyoyis, Grandmother’s Lodge, Faculty of Social Work, MT 330 | Kiipitakyoyis, Grandmother’s Lodge, in partnership with Writing Symbols Lodge, invites female-identifying individuals to a traditional Cree Gran... |
+| **October 29** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
+| **October 29** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **October 29** | [UFlourish at Schulich](https://events.ucalgary.ca/schulich/event/524337-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
+| **October 29** | [UFlourish at Schulich](https://events.ucalgary.ca/mental-health-strategy/event/524447-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
+| **October 29** | [UCalgary flu shot clinic - Foothills campus](https://ucalgary.ca/flu) | Azrieli Atrium (formerly HRIC) | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff. Our clinic will be at the Foothills campus ... |
+| **October 29** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **October 29** | [GRADexpo 2026](https://events.ucalgary.ca/live/events/525970-gradexpo-2026) | MacEwan Hall A/B | Join the Faculty of Graduate Studies for UCalgary GRADexpo 2026 on Thursday, October 29, your one-stop event to meet Faculties, explore programs... |
+| **October 29** | [PUBLIC 73: (Re)mediating Soils — Official Launch](https://events.ucalgary.ca/live/events/527547-public-73-remediating-soils-official-launch) | Social Sciences 217 and 203 | The launch of PUBLIC 73: (Re)mediating Soils explores the relationships between soil, people and the environment through art, science and Indige... |
+| **October 29** | [Halloween Art &amp; Chill](https://events.ucalgary.ca/osle/event/527551-halloween-art-chill) | SB101 |  |
+| **October 29** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522780-affordable-market) | Campus Food Hub |  |
+| **October 29** | [Queerness and Faith Lunch Chats](https://events.ucalgary.ca/faith-spirituality/event/524868-queerness-and-faith-lunch-chats) | Faith and Spirituality Centre (MSC 487) - Pluralism Room | Multi-faith discussion hosted by the United Church Chaplain and the FSC |
+| **October 29** | [Wellbriety Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524191-wellbriety-peer-support-meeting) | Writing Symbols Lodge, Eagle Boardroom | Wellbriety is a transformative recovery movement that integrates Native American cultural wisdom with contemporary sobriety practices, like the 12-... |
 
 ---
 
