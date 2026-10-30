@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-29 19:19:18
+> **Last Updated:** 2026-10-30 18:55:02
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -53,18 +53,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 29** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
-| **October 29** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 29** | [UFlourish at Schulich](https://events.ucalgary.ca/schulich/event/524337-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
-| **October 29** | [UFlourish at Schulich](https://events.ucalgary.ca/mental-health-strategy/event/524447-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
-| **October 29** | [UCalgary flu shot clinic - Foothills campus](https://ucalgary.ca/flu) | Azrieli Atrium (formerly HRIC) | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff. Our clinic will be at the Foothills campus ... |
-| **October 29** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 29** | [GRADexpo 2026](https://events.ucalgary.ca/live/events/525970-gradexpo-2026) | MacEwan Hall A/B | Join the Faculty of Graduate Studies for UCalgary GRADexpo 2026 on Thursday, October 29, your one-stop event to meet Faculties, explore programs... |
-| **October 29** | [PUBLIC 73: (Re)mediating Soils — Official Launch](https://events.ucalgary.ca/live/events/527547-public-73-remediating-soils-official-launch) | Social Sciences 217 and 203 | The launch of PUBLIC 73: (Re)mediating Soils explores the relationships between soil, people and the environment through art, science and Indige... |
-| **October 29** | [Halloween Art &amp; Chill](https://events.ucalgary.ca/osle/event/527551-halloween-art-chill) | SB101 |  |
-| **October 29** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522780-affordable-market) | Campus Food Hub |  |
-| **October 29** | [Queerness and Faith Lunch Chats](https://events.ucalgary.ca/faith-spirituality/event/524868-queerness-and-faith-lunch-chats) | Faith and Spirituality Centre (MSC 487) - Pluralism Room | Multi-faith discussion hosted by the United Church Chaplain and the FSC |
-| **October 29** | [Wellbriety Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524191-wellbriety-peer-support-meeting) | Writing Symbols Lodge, Eagle Boardroom | Wellbriety is a transformative recovery movement that integrates Native American cultural wisdom with contemporary sobriety practices, like the 12-... |
+| **October 30** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
+| **October 30** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **October 30** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **October 30** | [Student Disability Grant Application Drop-in Advising](https://events.ucalgary.ca/student-accessibility-services/event/523584-student-disability-grant-application-drop-in) | TBD / Online | Drop-in Student Disability Grant funding advising occurs Mondays 1:30 pm to 3:30 pm, Wednesdays 1:30 pm to 3:30 pm and Fridays 10:00 am to 12:00... |
+| **October 30** | [UCalgary flu shot clinic - Foothills campus](https://ucalgary.ca/flu) | Azrieli Atrium (formerly HRIC) | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff. Our clinic will be at the Foothills campus ... |
+| **October 30** | [UFlourish at Schulich](https://events.ucalgary.ca/schulich/event/524337-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
+| **October 30** | [UFlourish at Schulich](https://events.ucalgary.ca/mental-health-strategy/event/524447-uflourish-at-schulich) | The Bill Rosehart Wellness Room (ENA 06) | UFlourish at Schulich   The Schulich School of Engineering is proud to participate in this year’s UFlourish program. Led by the University of Ca... |
+| **October 30** | [Exhibition - Held. Together.](https://events.ucalgary.ca/live/events/523394-exhibition-held-together) | Nickle Galleries, Taylor Family Digital Library | Held. Together. is a group exhibition featuring Glenna Cardinal, seth cardinal dodginghorse, Dwayne Martineau, and Amanda McCavour with contribu... |
+| **October 30** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522795-affordable-market) | Campus Food Hub |  |
+| **October 30** | [Responding to Disclosures of Sexual and Gender-Based Violence](https://events.ucalgary.ca/live/events/521008-responding-to-disclosures-of-sexual-and-gender-based-) | Zoom | A positive first response to disclosures of sexual and gender-based violence (SGBV) can have a powerful impact on the person disclosing. Learn a... |
+| **October 30** | [HBI Seminar Series - Dr. Giannina Descalzi](https://events.ucalgary.ca/hbi/event/522830-hbi-seminar-series-dr-giannina-descalzi) | TBD / Online |  |
+| **October 30** | [FATS: Modeling vs. Reality in (Geo)science](https://events.ucalgary.ca/live/events/528770-fats-modeling-vs-reality-in-geoscience) | Science Theatres, Room 147 (ST 147) | Presented by Dr. Dave Pattison, Dept. of Earth Energy and Environment. |
 
 ---
 
