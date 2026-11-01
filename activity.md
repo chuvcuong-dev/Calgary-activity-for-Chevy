@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-10-31 17:59:56
+> **Last Updated:** 2026-11-01 18:39:02
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -15,6 +15,7 @@
 | **2026-11-08 to 2026-11-14** | Academic Milestone | **Fall Term Break (Reading Week)** | Fall break. Ideal time to catch up on lab write-ups and study for second midterms. |
 | **2026-11-19** | Undergraduate Research | **UREX Summer Research Awards Info Session (Faculty of Science)** | Workshop on finding a supervisor and drafting research proposals for the ,500 summer research award (open to international students). |
 | **2026-11-26** | Department Activity | **BSA BIO 241 Midterm 2 Prep & Mock Practical** | Review session focused on genetics, cell division, and microscope practical skills. |
+| **2026-12-01** | Scholarships & Awards | **High School Prestige Awards Application Deadline** | Deadline for incoming prestige awards (e.g. ,000/yr International Entrance Scholarship). |
 
 ---
 
@@ -53,10 +54,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **October 31** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
-| **October 31** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 31** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **October 31** | [Halloween Crafts and Costume Night](https://events.ucalgary.ca/international-student-services/event/527909-halloween-crafts-and-costume-night) | International Student Services (MSC 275) | Looking for some family fun on the spookiest night of the year? Join the ISS and the GSA as you get ready for your evening with face paint, do s... |
 | **November 1** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
 | **November 1** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 1** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
@@ -65,6 +62,10 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **November 2** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 2** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 2** | [RIHSE Rounds](https://events.ucalgary.ca/live/events/524648-rihse-rounds-copy) | HSC G382 or via Zoom | Topic: Journal Club   Article:   D’Mello, Keegan, et al. “Living between Stereotype and Erasure: A Study of the Model Minority Myth in Medical E... |
+| **November 2** | [SolLink: Grief and Loss Peer Support Meeting](https://events.ucalgary.ca/live/events/524143-sollink-grief-and-loss-peer-support-meeting) | Faith &amp; Spirituality Centre Pluralism Room (MSC 487) | SolLink is a peer-led program designed to help individuals process life changes through creative expression. Each session offers guided art acti... |
+| **November 2** | [Settler Social Worker Commitments to Reconciliation - 2nd Conversation](https://events.ucalgary.ca/live/events/528814-strengthening-our-commitment-as-settler-social) | Zoom (sent by email after registration) - Students &amp; staff are welcome to join from the Lodge | In partnership with the Kiipitakyoyis Grandmother’s Lodge, Dr. Liza Lorenzetti invites social work students, staff, and practitioners to share t... |
+| **November 2** | [Info session: Primatology at Telperion Nature Reserve (online)](https://events.ucalgary.ca/live/events/522353-info-session-primatology-at-telperion-nature-reserve-) | Zoom | Learn about the 2027 Primatology at Telperion Nature Reserve Global Classroom. |
+| **November 2** | [Worship at The U](https://events.ucalgary.ca/faith-spirituality/event/523875-worship-at-the-u) | MH 317A - Large Multi-Faith Room | Weekly Christian worship hosted by UCalgary’s Pentecostal Christian chaplain and student volunteer team! |
 
 ---
 
