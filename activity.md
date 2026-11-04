@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-11-03 20:19:26
+> **Last Updated:** 2026-11-04 20:35:32
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -54,18 +54,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **November 3** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
-| **November 3** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 3** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 3** | [Philosophy Statements and Teaching Dossiers](https://events.ucalgary.ca/taylor-institute/event/522239-philosophy-statements-and-teaching-dossiers) | TBD / Online | This badge provides participants with the opportunity to integrate their understanding about teaching and learning into a portfolio format known... |
-| **November 3** | [Early-Career Accelerator (In-Person)](https://www.eventbrite.ca/e/early-career-accelerator-tickets-1994865293794?aff=oddtdtcreator) | In-Person |  |
-| **November 3** | [UCalgary flu shot clinic - Downtown campus](https://ucalgary.ca/flu) | Downtown campus room 234 | UCalgary’s pop-up flu shot clinics are back to offer free flu shots for students, faculty and staff from Oct. 19 to Nov. 3 across our campuses. |
-| **November 3** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522751-affordable-market) | Campus Food Hub |  |
-| **November 3** | [Open 12-Step Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524113-open-12-step-peer-support-meeting) | Unit 5, 3500 24 Ave NW, Calgary, AB | This 12-Step student peer support meeting’s intention is to enhance the quality of life for its members by encouraging honest self-reflection, lear... |
-| **November 3** | [Cook Smart: Rotisserie Chicken Remix](https://events.ucalgary.ca/career-personal-development/event/526501-cook-smart-rotisserie-chicken-remix) | Campus Food Hub | Learn how to make the most of a rotisserie chicken by turning it into three simple, affordable meals.&#160; |
-| **November 3** | [Know Your Energy, Design Your Life (30 Minute Activity)](https://events.ucalgary.ca/live/events/522047-know-your-energy-design-your-life-30-minute) | Life Design Hub, MSC171 | Do you feel unsure what to do? Join us for a guided session on how to find and value energy so that we can use design thinking to create new pos... |
-| **November 3** | [Islam in Conversation](https://events.ucalgary.ca/faith-spirituality/event/528046-islam-in-conversation) | Faith and Spirituality Centre (MSC 487) | Exploration of Islamic topics, open to students of all backgrounds |
-| **November 3** | [Info session: Maya Archaeology and Ecology in Mexico (online)](https://events.ucalgary.ca/live/events/523747-info-session-maya-archaeology-and-ecology-in-mexico-o) | Zoom | Learn about the 2027 Maya Archaeology and Ecology in Mexico Global Classroom. |
+| **November 4** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
+| **November 4** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 4** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 4** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522766-affordable-market) | Campus Food Hub |  |
+| **November 4** | [SMART Recovery Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524129-smart-recovery-peer-support-meeting) | Unit 5, 3500 24 Ave NW, Calgary, AB | This peer support meeting is an evidenced-informed recovery method grounded in Rational Emotive Behavioral Therapy (REBT) and Cognitive Behavior... |
+| **November 4** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/live/events/525608-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
+| **November 4** | [[ONLINE] Assessment Design for a time of artificial intelligence](https://workrooms.ucalgary.ca/calendar/lcr-workshops/assessment-design) | TBD / Online |  |
+| **November 4** | [USpeak English Conversation Table](https://events.ucalgary.ca/international-student-services/event/529163-uspeak-english-conversation-table) | International Student Services (MSC 275) | Looking to practice your English conversation skills in a friendly and informal setting?      The USpeak English Conversation Table is the perfe... |
+| **November 4** | [Info session: International Insurance Markets](https://events.ucalgary.ca/live/events/525712-info-session-international-insurance-markets) | HSB SH423 Meeting Room | Learn about the 2027 International Insurance Markets Global Classroom. |
+| **November 4** | [Simple Supper](https://events.ucalgary.ca/faith-spirituality/event/523863-simple-supper) | Faith &amp; Spirituality Centre (MSC 487) | Hosted by UCalgary’s Lutheran Chaplain and student team, open to all! |
+| **November 4** | [Dark Global Skies – and a Nordic Silver Lining: News Landscapes in the 2020s, Public Lecture by Prof. Kim Christian Schrøder](https://events.ucalgary.ca/live/events/526446-dark-global-skies-and-a-nordic-silver-lining-news-lan) | HNSC 122 |  |
+| **November 4** | [Dementia for Primary Care Health Professionals - Pilot Program](https://events.ucalgary.ca/cumming/cme-pd/event/520184-dementia-for-primary-care-health-professionals-) | TBD / Online | VIRTUAL. LIMITED SPOTS AVAILABLE. |
 
 ---
 
