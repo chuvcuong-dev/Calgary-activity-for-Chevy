@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-11-04 20:35:32
+> **Last Updated:** 2026-11-05 20:52:04
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -54,18 +54,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **November 4** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
-| **November 4** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 4** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 4** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522766-affordable-market) | Campus Food Hub |  |
-| **November 4** | [SMART Recovery Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524129-smart-recovery-peer-support-meeting) | Unit 5, 3500 24 Ave NW, Calgary, AB | This peer support meeting is an evidenced-informed recovery method grounded in Rational Emotive Behavioral Therapy (REBT) and Cognitive Behavior... |
-| **November 4** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/live/events/525608-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
-| **November 4** | [[ONLINE] Assessment Design for a time of artificial intelligence](https://workrooms.ucalgary.ca/calendar/lcr-workshops/assessment-design) | TBD / Online |  |
-| **November 4** | [USpeak English Conversation Table](https://events.ucalgary.ca/international-student-services/event/529163-uspeak-english-conversation-table) | International Student Services (MSC 275) | Looking to practice your English conversation skills in a friendly and informal setting?      The USpeak English Conversation Table is the perfe... |
-| **November 4** | [Info session: International Insurance Markets](https://events.ucalgary.ca/live/events/525712-info-session-international-insurance-markets) | HSB SH423 Meeting Room | Learn about the 2027 International Insurance Markets Global Classroom. |
-| **November 4** | [Simple Supper](https://events.ucalgary.ca/faith-spirituality/event/523863-simple-supper) | Faith &amp; Spirituality Centre (MSC 487) | Hosted by UCalgary’s Lutheran Chaplain and student team, open to all! |
-| **November 4** | [Dark Global Skies – and a Nordic Silver Lining: News Landscapes in the 2020s, Public Lecture by Prof. Kim Christian Schrøder](https://events.ucalgary.ca/live/events/526446-dark-global-skies-and-a-nordic-silver-lining-news-lan) | HNSC 122 |  |
-| **November 4** | [Dementia for Primary Care Health Professionals - Pilot Program](https://events.ucalgary.ca/cumming/cme-pd/event/520184-dementia-for-primary-care-health-professionals-) | TBD / Online | VIRTUAL. LIMITED SPOTS AVAILABLE. |
+| **November 5** | [Active Living Membership for Faculty and Staff](https://events.ucalgary.ca/mental-health-strategy/event/500896-active-living-membership-for-faculty-and-staff) | Active Living | Staff and Faculty at UCalgary will be given free All Access Membership for the duration of UFlourish, October 26 to November 6. All you need is ... |
+| **November 5** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 5** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 5** | [Re-Sieving the News: How Audiences Sift, Sort and Trust (Or Not)](https://events.ucalgary.ca/live/events/527564-re-sieving-the-news-how-audiences-sift-sort-and) | TI 140/148 and Hunter Collision Hub (HNSC 4th Floor) | Professor Kim Christian Schrøder of Roskilde University, Denmark, examines global news trends, declining trust in traditional media and the rise... |
+| **November 5** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 5** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522781-affordable-market) | Campus Food Hub |  |
+| **November 5** | [Honoring International Inuit Day](https://events.ucalgary.ca/social-work/event/528788-honoring-international-inuit-day) | Kiipitakyoyis, Grandmother’s Lodge, Room 330 | In honor of International Inuit Day, please join us for a special hands-on workshop where we will learn together the traditional art of creating... |
+| **November 5** | [Professionalism in the Canadian Workplace](https://events.ucalgary.ca/live/events/522627-professionalism-in-the-canadian-workplace) | Life Design Hub (MSC 171) | How you conduct yourself at work and around others will have a direct impact on your career success. Understand what professionalism is, why it ... |
+| **November 5** | [Alumni Career Workshop: Career Planning](https://events.ucalgary.ca/alumni-career/event/526477-alumni-career-workshop-career-planning) | Online | Join an alumni career coach for this exclusive workshop. |
+| **November 5** | [Harm Reduction 101](https://events.ucalgary.ca/wellness-services/event/522957-harm-reduction-101) | Virtual via Zoom | 1-hour workshop discussing harm reduction principles and safer substance use with alcohol and cannabis. |
+| **November 5** | [Create and Connect Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524060-create-and-connect-peer-support-meeting) | Unit 5, 3500 24 Ave NW, Calgary, AB | Create &amp; Connect is a mental health peer support program that brings people together through creativity and conversation. This peer-led spac... |
+| **November 5** | [Catholic Mass](https://events.ucalgary.ca/faith-spirituality/event/523887-catholic-mass) | Vitruvian Space (DC 12) - Firmitas B | Hosted by the UCalgary Catholic Chaplain |
 
 ---
 
