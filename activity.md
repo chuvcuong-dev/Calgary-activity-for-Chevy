@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-11-07 18:23:05
+> **Last Updated:** 2026-11-08 18:33:30
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -54,11 +54,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **November 7** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 7** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 7** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 7** | [Seven Wonders of Science](https://events.ucalgary.ca/science/event/525762-seven-wonders-of-science) | EEEL Building, 750 Campus Dr. NW, Calgary | Spark your curiosity at Seven Wonders of Science, a free afternoon of discovery, conversation and hands-on exploration. |
-| **November 7** | [Yet I Am - Co-Production with Handsome Alice Theatre](https://events.ucalgary.ca/live/events/520705-yet-to-be-named-co-production-with-handsome) | Reeve Theatre | Witness an edgy, original production where a fearless ensemble of SCPA performers in collaboration with Handsome Alice Theatre dive into the “ge... |
 | **November 8** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 8** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 8** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
@@ -66,6 +61,11 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **November 9** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 9** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 9** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 9** | [Term Break](https://events.ucalgary.ca/registrar/event/515651-term-break) | TBD / Online |  |
+| **November 9** | [RIHSE Rounds Journal Club](https://em.ucalgary.ca/MTYxLU9MTi05OTAAAAGengtTYhgk_H0tei0TMtYtPLJ8X4ntCvXxy6e9QB--Pc0xu4sf1wVeEkzLvQdRl7HPgRJbvfQ=) | Online and In-Person (HMRB G384 - Foothills Campus)) | What does it mean to critically approach AI, or choose not to use it, in health professions education? Dr. Kenna Kelly-Turner will lead a discus... |
+| **November 9** | [RIHSE Rounds - “Critical AI and AI Refusal in Health Professions Education”](https://events.ucalgary.ca/live/events/524649-rihse-rounds-copy) | HSC G382 or via Zoom | What does it mean to critically approach AI, or choose not to use it, in health professions education? Dr. Kenna Kelly-Turner will lead a discus... |
+| **November 9** | [Group Facilitation Methods Training](https://events.ucalgary.ca/live/events/526450-group-facilitation-methods-training) | Life Design Hub, MSC 171 | Supported by the Quality Money Initiative, this free two-day training builds practical facilitation, consensus-building, and conflict resolution... |
+| **November 9** | [3D Printing Essentials: Choosing Materials and Turning Digital Designs into Physical Creations](https://workrooms.ucalgary.ca/event/4081506) | LabNext Teaching area TFDL 330 |  |
 
 ---
 
