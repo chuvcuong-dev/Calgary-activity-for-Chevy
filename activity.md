@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-11-08 18:33:30
+> **Last Updated:** 2026-11-09 23:12:13
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -12,10 +12,10 @@
 
 | Date | Category | Activity / Milestone | Details & Action |
 | :--- | :--- | :--- | :--- |
-| **2026-11-08 to 2026-11-14** | Academic Milestone | **Fall Term Break (Reading Week)** | Fall break. Ideal time to catch up on lab write-ups and study for second midterms. |
 | **2026-11-19** | Undergraduate Research | **UREX Summer Research Awards Info Session (Faculty of Science)** | Workshop on finding a supervisor and drafting research proposals for the ,500 summer research award (open to international students). |
 | **2026-11-26** | Department Activity | **BSA BIO 241 Midterm 2 Prep & Mock Practical** | Review session focused on genetics, cell division, and microscope practical skills. |
 | **2026-12-01** | Scholarships & Awards | **High School Prestige Awards Application Deadline** | Deadline for incoming prestige awards (e.g. ,000/yr International Entrance Scholarship). |
+| **2026-12-09** | Academic Milestone | **Fall 2026 Lectures End & Course Withdrawal Deadline** | Last day of classes for Fall 2026. Last day to officially withdraw from a Fall course with a 'W' grade. |
 
 ---
 
@@ -54,18 +54,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **November 8** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 8** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 8** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 8** | [Term Break](https://events.ucalgary.ca/registrar/event/515651-term-break) | TBD / Online |  |
 | **November 9** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 9** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 9** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 9** | [Term Break](https://events.ucalgary.ca/registrar/event/515651-term-break) | TBD / Online |  |
-| **November 9** | [RIHSE Rounds Journal Club](https://em.ucalgary.ca/MTYxLU9MTi05OTAAAAGengtTYhgk_H0tei0TMtYtPLJ8X4ntCvXxy6e9QB--Pc0xu4sf1wVeEkzLvQdRl7HPgRJbvfQ=) | Online and In-Person (HMRB G384 - Foothills Campus)) | What does it mean to critically approach AI, or choose not to use it, in health professions education? Dr. Kenna Kelly-Turner will lead a discus... |
-| **November 9** | [RIHSE Rounds - “Critical AI and AI Refusal in Health Professions Education”](https://events.ucalgary.ca/live/events/524649-rihse-rounds-copy) | HSC G382 or via Zoom | What does it mean to critically approach AI, or choose not to use it, in health professions education? Dr. Kenna Kelly-Turner will lead a discus... |
-| **November 9** | [Group Facilitation Methods Training](https://events.ucalgary.ca/live/events/526450-group-facilitation-methods-training) | Life Design Hub, MSC 171 | Supported by the Quality Money Initiative, this free two-day training builds practical facilitation, consensus-building, and conflict resolution... |
-| **November 9** | [3D Printing Essentials: Choosing Materials and Turning Digital Designs into Physical Creations](https://workrooms.ucalgary.ca/event/4081506) | LabNext Teaching area TFDL 330 |  |
+| **November 9** | [Fall Convocation](https://events.ucalgary.ca/registrar/event/515652-fall-convocation) | TBD / Online |  |
+| **November 9** | [Wellbriety Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/528060-wellbriety-peer-support-meeting-copy) | Unit 5, 3500 24 Ave NW, Calgary, AB | Wellbriety is a transformative recovery movement that integrates Native American cultural wisdom with contemporary sobriety practices, like the ... |
+| **November 9** | [A Changed World, A Changing Army: Building Canada’s Manoeuvre Division](https://ucgo.ucalgary.ca/T/WF/38566/342eIu/Register/en-US/Form.ofsys) | TI 160 | Presentation and Q&amp;A with Major-General Wade Rutland, Commander, 1st Canadian Division of the Canadian Armed Forces&#160; |
+| **November 9** | [USpeak Mandarin Conversation Table](https://events.ucalgary.ca/international-student-services/event/529185-uspeak-mandarin-conversation-table) | International Student Services (MSC 275) | Looking to practice your Mandarin conversation skills in a friendly and informal setting?   The USpeak Mandarin Conversation Table is the perfec... |
+| **November 9** | [USpeak Persian Conversation Table](https://events.ucalgary.ca/international-student-services/event/529194-uspeak-persian-conversation-table) | International Student Services (MSC 275) | Looking to practice your Persian conversation skills in a friendly and informal setting?   The USpeak Persian Conversation Table is the perfect ... |
+| **November 9** | [BSW Information Session](https://events.ucalgary.ca/social-work/event/523779-bsw-information-session) | Online | We’ll provide an overview of our Bachelor of Social Work and answer your questions about program options. You’ll also find out more about the ap... |
+| **November 10** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 10** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 
 ---
 
