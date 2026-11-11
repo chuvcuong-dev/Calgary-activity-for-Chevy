@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-11-10 20:38:37
+> **Last Updated:** 2026-11-11 20:58:27
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -54,18 +54,18 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **November 10** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 10** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 10** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 10** | [Fall Convocation](https://events.ucalgary.ca/registrar/event/515652-fall-convocation) | TBD / Online |  |
-| **November 10** | [Term Break](https://events.ucalgary.ca/registrar/event/515651-term-break) | TBD / Online |  |
-| **November 10** | [Group Facilitation Methods Training](https://events.ucalgary.ca/live/events/526451-group-facilitation-methods-training-a-quality) | Life Design Hub, MSC 171 | Supported by the Quality Money Initiative, this free two-day training builds practical facilitation, consensus-building, and conflict resolution... |
-| **November 10** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522752-affordable-market) | Campus Food Hub |  |
-| **November 10** | [Open 12-Step Peer Support Meeting](https://events.ucalgary.ca/recovery-community/event/524114-open-12-step-peer-support-meeting) | Unit 5, 3500 24 Ave NW, Calgary, AB | This 12-Step student peer support meeting’s intention is to enhance the quality of life for its members by encouraging honest self-reflection, lear... |
-| **November 10** | [Using AI for Resume Development](https://events.ucalgary.ca/live/events/522694-using-ai-for-resume-development) | Online | Learn how to use AI to analyze job postings, strengthen your resume content, and tailor your application while keeping it accurate, authentic, a... |
-| **November 10** | [LinkedIn Essentials: Build Your Profile, Engage and Explore Career Paths](https://events.ucalgary.ca/live/events/520926-linkedin-essentials-build-your-profile-engage-and) | Online | Learn how to create an effective LinkedIn profile and discover how this platform can be useful in networking and job search. |
-| **November 10** | [USpeak English Conversation Table](https://events.ucalgary.ca/international-student-services/event/529178-uspeak-english-conversation-table) | International Student Services (MSC 275) | Looking to practice your English conversation skills in a friendly and informal setting?   The USpeak English Conversation Table is the perfect ... |
 | **November 11** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 11** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 11** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 11** | [Remembrance Day (University closure)](https://events.ucalgary.ca/registrar/event/515650-remembrance-day-university-closure) | TBD / Online |  |
+| **November 11** | [Term Break](https://events.ucalgary.ca/registrar/event/515651-term-break) | TBD / Online |  |
+| **November 11** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522767-affordable-market) | Campus Food Hub |  |
+| **November 11** | [Neurodiversity Support Advising drop-in](https://events.ucalgary.ca/live/events/525610-neurodiversity-support-advising-drop-in) | MacEwan Student Centre 450 | One-to-one info &amp; supports with a Neurodiversity Support Advisor (NSA). Ask questions, access neuro-affirming care, get connected to helpful... |
+| **November 12** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523402-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 12** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523403-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 12** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
+| **November 12** | [Term Break](https://events.ucalgary.ca/registrar/event/515651-term-break) | TBD / Online |  |
+| **November 12** | [Renal Rounds (Hybrid)](https://events.ucalgary.ca/cumming/medicine/event/528800-renal-rounds-hybrid) | Theatre One, Health Sciences Centre, Foothills Campus | “Paving the Road: Reimaging Integrated Care for Chronic Kidney Disease”   Dr. Maoliosa (Mo) Donald |
 
 ---
 
