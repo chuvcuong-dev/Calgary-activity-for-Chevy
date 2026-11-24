@@ -3,7 +3,7 @@
 > **Tracking Scope:** Academic Year 2026-2027
 > **Faculty / Department:** Faculty of Science -- Department of Biological Sciences
 > **Target:** 1st-Year International & Domestic BSc Students
-> **Last Updated:** 2026-11-24 01:18:36
+> **Last Updated:** 2026-11-24 23:18:20
 > **Auto-Update Status:** Active daily background tracker
 
 ---
@@ -54,8 +54,6 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 
 | Date | Event Title | Location | Summary & Link |
 | :--- | :--- | :--- | :--- |
-| **November 23** | [Demo - Fast Volumetric Imaging with Leica Viventis SCAPE (Swept Confocally Aligned Planar Excitation)](https://events.ucalgary.ca/event/530007-demo-fast-volumetric-imaging-with-leica-viventis-scap) | HMRB 104 | Fast Volumetric Imaging with Leica Viventis SCAPE (Swept Confocally Aligned Planar Excitation) demo |
-| **November 23** | [Jazz Combos](https://events.ucalgary.ca/live/events/520358-jazz-combos) | Reeve Theatre | The Chamber Music Program at the University of Calgary presents jazz combos in a dynamic evening of jazz repertoire. Comprised of combinations o... |
 | **November 24** | [Dance Research Conference (part of the Movement Research Festival)](https://events.ucalgary.ca/live/events/520599-dance-research-conference-part-of-the-movement) | Various Venues on University of Calgary Campus | The Dance Research Conferences presents a series of workshops and panels by movement artists and researchers, sharing research from students, fa... |
 | **November 24** | [December 6 Memorial Candle Sale](https://events.ucalgary.ca/live/events/529964-december-6-memorial-candle-sale) | Women’s Resource Centre (MSC 482) | Help raise awareness about gender-based violence by purchasing beeswax candles handmade by UCalgary community members. |
 | **November 24** | [Demo - Fast Volumetric Imaging with Leica Viventis SCAPE (Swept Confocally Aligned Planar Excitation)](https://events.ucalgary.ca/event/530007-demo-fast-volumetric-imaging-with-leica-viventis-scap) | HMRB 104 | Fast Volumetric Imaging with Leica Viventis SCAPE (Swept Confocally Aligned Planar Excitation) demo |
@@ -64,8 +62,10 @@ Dynamic listings refreshed from the University of Calgary event portal (events.u
 | **November 24** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523404-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 24** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523405-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
 | **November 24** | [Exhibition - All Netted Together: Charles Darwin, Alfred Russel Wallace, and the Social Life of a Theory](https://events.ucalgary.ca/live/events/523406-exhibition-all-netted-together-charles-darwin) | Nickle Galleries, Taylor Family Digital Library | This exhibition draws upon the recently acquired D. Hall Darwin-Wallace Collection, which brings together over one hundred works by and about Ch... |
-| **November 24** | [Department of Medicine Medical Grand Rounds](https://events.ucalgary.ca/cumming/medicine/event/531471-department-of-medicine-medical-grand-rounds) | Zoom Presentation | “Polycythemia: A Plethora of Potential Pathologies”   Dr. Daniel Wong |
-| **November 24** | [Research Update Seminar Series](https://events.ucalgary.ca/libin/event/524951-research-update-seminar-series) | HSC 1405B | Join us for the next Research Update Seminar Series. This session features:               Emma Heeg, a PhD student supervised by Dr. Sarah Child... |
+| **November 24** | [Affordable Market](https://events.ucalgary.ca/career-personal-development/event/522754-affordable-market) | Campus Food Hub |  |
+| **November 24** | [BGC Engineering Information Session](https://events.ucalgary.ca/live/events/529179-bgc-engineering-information-session) | Life Design Hub, MSC 171 | Learn about career, internship, and co-op opportunities in engineering, geoscience, and geophysics with BGC Engineering. Hear from University of... |
+| **November 24** | [Science in the Cinema presents Fire in the Blood](https://cumming.ucalgary.ca/about/events/science-cinema) | Central Library, 800 3 St SE, Calgary, AB | Hosted by the Cumming School of Medicine (CSM), Science in the Cinema brings together science and popular culture in a fun and engaging way. Fire i... |
+| **November 24** | [The Movement Launch: Men’s Mental Health Talk](https://www.eventbrite.ca/e/the-movement-launch-tickets-2003086469552?aff=oddtdtcreator) | The Rooftop YYC | A free community gathering exploring men’s mental health through lived experiences across generations, connection and conversation.&#160; |
 
 ---
 
